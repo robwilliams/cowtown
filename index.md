@@ -14,7 +14,7 @@ title: Guitar Tuition by Neil Cowmeadow
 
   <div class="button">
     <a class="btn btn-large btn-success" href="http://cowtown.wufoo.com/forms/z7x4m1/" onclick="window.open(this.href,  null, 'height=380, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false">
-      Get my free Ebook now
+      Get my <u>FREE</u> eBook now
     </a>
   </div>
 </div>
