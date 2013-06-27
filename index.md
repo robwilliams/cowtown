@@ -8,7 +8,10 @@ title: Guitar Tuition by Neil Cowmeadow
 <div class="jumbotron">
   <h1>Let's Play!</h1>
   <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-  <a class="btn btn-large btn-success" href="#">Sign up today</a>
+  
+  <a class="btn btn-large btn-success"href="http://cowtown.wufoo.com/forms/z7x4m1/" onclick="window.open(this.href,  null, 'height=380, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false">
+    Get my free Ebook now
+  </a>
 </div>
 
 <hr>
