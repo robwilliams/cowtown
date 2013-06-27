@@ -28,9 +28,21 @@
         font-size: 72px;
         line-height: 1;
       }
+      .jumbotron .text {
+        font-weight: bold;
+        font-size: 80px;
+      }
+
+      .jumbotron .button {
+        font-weight: bold;
+        background: url(images/lodestone.jpg) no-repeat;
+        min-height: 400px;
+      }      
+
       .jumbotron .btn {
-        font-size: 21px;
-        padding: 14px 24px;
+        font-size: 42px;
+        padding: 28px 48px;
+        margin-top: 150px;
       }
 
       /* Supporting marketing content */
@@ -43,24 +55,21 @@
     </style>
 </head>
 <body>
-  <div class="tagline">
-    <a href="mailto:{{ site.email }}">Email me</a>
-    for my FREE eBook "Why You Don't Play Like a Pro, Yet!"
-  </div>
-  <header>
-    <h1>{{ site.name }}</h1>
-    <h2>{{ page.title }}</h2>
-  </header>
-
 <div class="container-narrow">
 
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
+          <li class="active"><a href="/">Home</a></li>
+          <li><a href="/repair.html">Repair</a></li>
         </ul>
-        <h3 class="muted">Cowtown Guitars - Guitar Tuition</h3>
+        <h3 >
+          Cowtown Guitars - Guitar Tuition<br />
+          <small>
+            Phone: 01952 882928 -
+            Mobile: 07968 077280
+          </small>
+
+        </h3>
       </div>
 
       <hr>
@@ -74,6 +83,17 @@
 
       <div class="footer">
         <p>&copy; Cowtown Guitars 2013</p>
+        <p>
+        <address>
+          Tumbledown Cottage
+          23,Ironbridge Road
+          Broseley
+          Shropshire
+          TF12 5AJ
+        </address>
+        Phone: 01952 882928
+        Mobile: 07968 077280
+        </p>
       </div>
 
     </div> <!-- /container -->
