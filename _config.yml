@@ -1,0 +1,7 @@
+auto: true
+exclude: ['sass', 'config.rb', 'Gemfile', 'Gemfile.lock']
+
+name: Cowtown Guitars 
+phone: 01952 882928
+email: neil@cowtownguitars.net
+
