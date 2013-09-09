@@ -45,6 +45,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem "foreman"
+gem "dotenv"
 
 group :development do
   gem "capistrano", require: false
