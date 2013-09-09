@@ -2,6 +2,7 @@ require "bundler/capistrano"
 
 set :application, "cowtown"
 set :repository,  "git@github.com:robwilliams/cowtown.git"
+set :branch,      "master"
 set :user,        "deploy"
 set :deploy_to,   "/home/#{user}/apps/#{application}"
 set :scm, :git
