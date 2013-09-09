@@ -4,11 +4,11 @@ set :application, "cowtown"
 set :repository,  "git@github.com:robwilliams/cowtown.git"
 set :user,        "deploy"
 set :deploy_to,   "/home/#{user}/apps/#{application}"
-
 set :scm, :git
 
 role :app, "37.139.17.66"
 
+set :use_sudo, false
 default_run_options[:pty]   = true
 ssh_options[:forward_agent] = true
 

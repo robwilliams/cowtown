@@ -44,8 +44,9 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "foreman"
+
 group :development do
-  gem "foreman", require: false
   gem "capistrano", require: false
 end
 
