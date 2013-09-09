@@ -1,4 +1,5 @@
 require "bundler/capistrano"
+require "dotenv/capistrano"
 
 set :application, "cowtown"
 set :repository,  "git@github.com:robwilliams/cowtown.git"
