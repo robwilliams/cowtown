@@ -44,5 +44,9 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem "foreman", require: false, group: :development
+group :development do
+  gem "foreman", require: false
+  gem "capistrano", require: false
+end
+
 gem "rspec-rails", group: [:development, :test]
