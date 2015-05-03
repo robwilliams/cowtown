@@ -5,6 +5,9 @@ title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, gu
 ---
 
 <div class="jumbotron">
+  <a class="btn btn-large btn-success" href="tel:07968077280">
+    Call me
+  </a>
   <div class="text">
   <h2>
   Guitar Tuition and Repair <br /><small> with Neil Cowmeadow </small>
@@ -15,11 +18,6 @@ title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, gu
     </p>
    </div>
 
-  <div class="button">
-    <a class="btn btn-large btn-success" href="tel:07968077280">
-      Press here to speak to me
-    </a>
-  </div>
 </div>
 
 I've been teaching guitar In Broseley, near Telford, Shropshire for 14 years. That's over 35,000 lessons! 
