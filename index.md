@@ -5,7 +5,7 @@ title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, gu
 ---
 
 <div class="jumbotron">
-  <a class="btn btn-large btn-success" href="tel:07968077280">
+  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'call-me'); return true;">
     Call me
   </a>
   <div class="text">
