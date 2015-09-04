@@ -10,7 +10,7 @@ title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, gu
   </a>
   <div class="text">
   <h2>
-  Guitar Tuition and Repair <br /><small> with Neil Cowmeadow</small>
+  Professional Guitar Tuition and Repair <br /><small> with Neil Cowmeadow</small>
   </h2>
     <h3>Find out why "Play 'till your fingers bleed" is nonsense</h3>
     <p class="lead">
