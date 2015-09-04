@@ -24,10 +24,14 @@ I've been teaching guitar In Broseley, near Telford, Shropshire for 14 years. Th
 
 You'll learn what the guitar really is, with straight talk, without the nonsense and self-promoting hype. 
 
-You see, I focus completely on teaching - it's both my full-time job and my life's love. I'm not going to  to tell you how great a player I am, who I sound like, and other irrelevant stuff. 
-My goal wasn't to become a great player - it was to become an exceptional teacher, a very different path. 
+I focus completely on teaching - it's both my full-time job and my life's love.
+My goal was to  create a teaching scheme that would improved on traditional methods and accelerated progress for students at every level, letting them understand, not just "monkey-see, monkey-do" teaching. 
+
+I have both a First Class Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional.
+
+I am also fully DBS and CRB checked and cleared, so you can put your mind at ease.
 
 Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass simply for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
 
-Give me a call and I'll be happy to talk you. Text me and I'll call you back - it's easier than ping-ponging texts around. 
+Give me a call and I'll be happy to talk with you, text me and I'll call you back. 
 
