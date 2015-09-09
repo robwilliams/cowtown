@@ -12,11 +12,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
   <h2>
   Expert Guitar Tuition<br /><small> Neil Cowmeadow, BA hons, Dip Mus.</small>
   <p class="lead">
-    <h2>Find out how to play without hurting yourself or making your fingers bleed.</h3>
+    <h2>Find out how to play without hurting yourself or making your fingers bleed.</h2>
     </p>
-    Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.
-    
-    </h2>
+  <h2> Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.
+      </h2>
    </div>
 
 </div>
