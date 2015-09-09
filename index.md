@@ -22,9 +22,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
 <h2>
 Gift Vouchers are Available Now - the Perfect Musical Gift for Birthdays, Anniversaries, and even Christmas.
 </h2>
+</p>
 </div>
 </div>
-I've been teaching guitar In Broseley, near Telford, Shropshire for 16 years. That's over 25,00 hours of guitar lessons and teaching experience, coupled to extensive research into how the instrument works with the player's biomechanics to make it the World's favourite instrument. 
+I've been teaching guitar In Broseley, near Telford, Shropshire for 16 years. That's over 34,000 (Yes, Thirty-Four Thousand) hours of guitar lessons and teaching experience, coupled to extensive research into how the instrument works with the player's biomechanics to make it the World's favourite instrument. 
 
 When you learn guitar with me, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
 
