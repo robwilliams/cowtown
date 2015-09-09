@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, guitar teacher, Bass Lessons, Instrument Repair, Technician
+title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert
 
 ---
 
@@ -10,15 +10,19 @@ title: Cowtown Guitars tuition,Neil Cowmeadow,guitar tuition, guitar lessons, gu
   </a>
   <div class="text">
   <h2>
-  Personalised, Professional Guitar Tuition and Repair <br /><small> Neil Cowmeadow, BA hons, Dip Mus.</small>
-  </h2>
-    <h3>Find out how to play without hurting yourself or making your fingers bleed</h3>
-    <p class="lead">
-    Electric, Acoustic and Bass guitar Lessons for all Levels.
+  Expert Guitar Tuition<br /><small> Neil Cowmeadow, BA hons, Dip Mus.</small>
+  <p class="lead">
+    <h2>Find out how to play without hurting yourself or making your fingers bleed.</h3>
     </p>
+    Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.
+    
+    </h2>
    </div>
 
 </div>
+<h2>
+Gift Vouchers are Available Now - the Perfect Musical Gift for Birthdays, Anniversaries, and even Christmas.
+</h2>
 
 I've been teaching guitar In Broseley, near Telford, Shropshire for 16 years. That's over 25,00 hours of guitar lessons and teaching experience, coupled to extensive research into how the instrument works with the player's biomechanics to make it the World's favourite instrument. 
 
