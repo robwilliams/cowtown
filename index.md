@@ -11,13 +11,13 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
   <div class="text">
     <h2>Expert Guitar Tuition<br /><small> Neil Cowmeadow, BA hons, Dip Mus.</small></h2>
     <h2>How to Play Guitar without making your fingers bleed.</h2>
-    <h2> Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.</h2>
+    <h3> Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
 
-<h2>
+<h3>
   Gift Vouchers are the Perfect Musical Gift for Birthdays, Anniversaries, and even Christmas.
-</h2>
+</h3>
 
   I've been teaching guitar In Broseley, near Telford, Shropshire for 16 years. That's over 34,000 (Yes, Thirty-Four Thousand) hours of guitar lessons and teaching experience, coupled to extensive research into how the instrument works with the player's biomechanics to make it the World's favourite instrument. 
 
