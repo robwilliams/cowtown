@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
   </a>
   <div class="text">
     <h2>Expert Guitar Tuition<br /><small> Neil Cowmeadow, BA hons, Dip Mus.</small></h2>
-    <h2>How to Play Guitar without making your fingers bleed.</h2>
+    <h3>How to Play Guitar without making your fingers bleed.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
@@ -19,9 +19,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
   Gift Vouchers are the Perfect Musical Gift for Birthdays, Anniversaries, and even Christmas.
 </h3>
 
-  I've been teaching guitar In Broseley, near Telford, Shropshire for 16 years. That's over 34,000 (Yes, Thirty-Four Thousand) hours of guitar lessons and teaching experience, coupled to extensive research into how the instrument works with the player's biomechanics to make it the World's favourite instrument. 
-
-When you learn guitar with me, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
+  I've been teaching guitar In Broseley, near Telford, Shropshire for <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, Thirty-Four Thousand) hours of guitar lessons and teaching experience, coupled to extensive research, to show you  how the instrument works with the player to make it easy to play.
+  
+When we work together, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
 
 Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. 
 
