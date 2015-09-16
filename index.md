@@ -6,7 +6,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Lessons, Guitar Teacher, Bass Less
 
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'call-me'); return true;">
-    Press to Dial
+    Dial
   </a>
   <div class="text">
     <h2>Neil Cowmeadow, BA Hons, Dip. Mus.<br /><strong>The Expert Guitar Teacher.</strong></h2>
