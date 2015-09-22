@@ -27,7 +27,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
   
   When we work together, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
 
-  Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, and only with great people. 
+  Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 
  
 
@@ -37,5 +37,5 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 
 Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
 
-Call me now, and let's talk music!
+Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
 
