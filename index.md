@@ -10,7 +10,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
   </a>
   <div class="text">
     <h2>Neil Cowmeadow
-    <p>BA Hons, Dip. Mus.<br /><strong>The Expert Guitar Teacher.</strong></h2>
+    <p>BA Hons, Dip. Mus.</p>
+    <br /><strong>The Expert Guitar Teacher.</strong></h2>
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
   </div>
