@@ -26,7 +26,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
    
    Whilst studying for my Music Diploma I developed a teaching scheme that improves on traditional methods and accelerates progress for students at every level. I had no choice but to create it from the ground up because I couldn't find what I needed anywhere - not in my books, videos, magazines, or the internet: nowhere.
    
-   If You - like me - deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, we'll get on just fine. 
+   If You deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, we'll get on just fine. If you want a teacher who deals only in the facts and reality, you're in the right place. 
   
   When we work together, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
 
