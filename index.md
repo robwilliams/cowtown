@@ -24,7 +24,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
 </p>
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private teacher.
    
-   Whilst studying for my Music Diploma I developed a teaching scheme that improves on traditional methods and accelerates progress for students at every level. I had no choice but to create it from the ground up because I couldn't find what I needed anywhere - not in my books, videos, magazines, or the internet: nowhere.
+   Whilst studying for my Music Diploma I developed a teaching scheme that uses and improves on traditional methods to accelerate progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. 
    
    If You deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, we'll get on just fine. If you want a teacher who deals only in the facts and reality, you're in the right place. 
   
