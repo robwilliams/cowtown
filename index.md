@@ -26,14 +26,17 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
    
    Whilst studying for my Music Diploma I developed a teaching scheme that uses and improves on traditional methods to accelerate progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. 
    
-   If You deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, we'll get on just fine. If you want a teacher who deals only in the facts and reality, you're in the right place. 
+   Because you deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, I'm sure we'll get on just fine. 
+   
+   I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life, so that's what I will show you, all the way: from wherever you are - right now - to wherever you want to get to. 
+   
+   And if you want to shake off the delusion of difficulty (who is daft enough to want <em>that?</em>) you're in the right place. 
   
   When we work together, you'll discover what the guitar really is - with straight talk. I don't peddle  nonsense and self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius". What I do is give you a unique system that lays bare the way music works on the guitar.
 
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 
  
-
   I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
 
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
