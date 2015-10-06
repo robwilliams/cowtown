@@ -5,20 +5,22 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
 ---
 
 <div class="jumbotron">
-  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'call-me'); return true;">
+  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'click-to-dial'); return true;">
     Call
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA Hons, Dip. Mus.</h3></p>
-    <br /><h2><strong><em><strong>The</strong></em> Expert Guitar Teacher.</strong></h2>
+    <br /><h2><strong><strong>The</strong> Expert Guitar Teacher.</strong></h2>
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
 
 <h3 style="text-align: center">
-  Gift Vouchers Available Now - Just Call.
+The Help You Need is Here.
+
+Gift Vouchers Available Now - Just Call.
 </h3>
 <p>
 </p>
