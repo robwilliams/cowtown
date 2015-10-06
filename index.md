@@ -18,7 +18,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
 </div>
 
 <h3 style="text-align: center">
+<p>
 The Help You Need is Here.
+</p>
 
 Gift Vouchers Available Now - Just Call.
 </h3>
