@@ -11,7 +11,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
   <div class="text">
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA Hons, Dip. Mus.</h3></p>
-    <br /><h2><strong><strong>The</strong> <em>Expert</em> Guitar Teacher.</strong></h2>
+    <br />
+    <h2 style="text-decoration:underline;">
+    <strong>The</strong> <em>Expert</em> Guitar Teacher.</strong></h2>
+    
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
   </div>
@@ -21,12 +24,15 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
 <p>
 The Help You Need is Here.
 </p>
+<p>
+<p>
 
-Gift Vouchers Available Now - Just Call.
+<p>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</p>
+
 </h3>
 <p>
 </p>
-   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private teacher.
+   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
    
    Whilst studying for my Music Diploma I developed a teaching scheme that uses and improves on traditional methods to accelerate progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. 
    
