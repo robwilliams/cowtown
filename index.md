@@ -34,9 +34,26 @@ The Help You Need is Here.
 </p>
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
    
-   Whilst studying for my Music Diploma I developed a teaching scheme that uses and improves on traditional methods to accelerate progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. 
+   Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods I'd been using for 23 years, accelerating progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.
+   <p><em>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </em>John Cooper.
+   </p>
    
-   Because you deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, I'm sure we'll get on just fine. 
+   <p>
+   Ask yourself these simple questions: 
+   <ul>
+   <li>Do I want to find out how to play every song, in every key, in every style?</li>
+   <li>Do I want to find out a faster way to learn to play?</li>
+   <li>Do I want to play until my fingers bleed, or with ease and comfort?</li>
+   <li>How can I get to play better, but in less time than everyone else?</li>
+   <li>Do you want to play parrot-fashion, or understand what you do?</li>
+   <li>Do you want to play without limits and liberate your mind?</li>
+   <li>You deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, don't you?</li>
+   
+   </ul>
+   
+   </p>
+   
+   
    
    I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life, so that's what I will show you, all the way: from wherever you are - right now - to wherever you want to get to. 
    
