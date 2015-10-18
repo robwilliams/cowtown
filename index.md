@@ -19,7 +19,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
-</p>
+<p></p>
    <p><em><strong>"... Neil Cowmeadow Is probably the best teacher there is." </strong></em>   Tom Boddison.
    </p>
 <h3 style="text-align: center">
