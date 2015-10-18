@@ -19,20 +19,18 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
-
-<h3 style="text-align: center">
-<p>
-The Help You Need is Here.
-</p>
-<p></p>
-<p></p>
 </p>
    <p><em><strong>"... Neil Cowmeadow Is probably the best teacher there is." </strong></em>   Tom Boddison.
    <p>
+<h3 style="text-align: center">
+<p>
+The Help You Need is Here.</h3>
+</p>
+<p></p>
+<p></p>
 
-<p>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</p>
 
-</h3>
+
 <p>
 </p>
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
@@ -70,6 +68,8 @@ The Help You Need is Here.
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
 
 Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
+
+<p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
 
 Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
 
