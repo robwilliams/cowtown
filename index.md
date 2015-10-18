@@ -27,10 +27,12 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
    <strong>"... Neil Cowmeadow Is probably the best teacher there is." </strong>
    </em>  
    Tom Boddison.</h4> 
-   <p></p>
-<h3 style="text-align: center">
+   </p>
 <p>
-The Help You Need is Here.</h3>
+<h3 style="text-align: center">
+
+The Help You Need is Here.
+</h3>
 </p>
 <p></p>
 <p></p>
