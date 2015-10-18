@@ -26,6 +26,9 @@ The Help You Need is Here.
 </p>
 <p></p>
 <p></p>
+</p>
+   <p><em><strong>"... Neil Cowmeadow Is probably the best teacher there is." </strong></em>   Tom Boddison.
+   <p>
 
 <p>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</p>
 
@@ -35,10 +38,8 @@ The Help You Need is Here.
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
    
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods I'd been using for 23 years, accelerating progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.
-   <p><em>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </em>John Cooper.
-   </p>
+   <p><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.
    
-   <p>
    Ask yourself these simple questions: 
    <ul>
    <li>Do I want to find out how to play every song, in every key, in every style?</li>
