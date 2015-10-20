@@ -95,3 +95,4 @@ Guitar lessons should be fun, interesting, and take you forward towards your goa
 
 Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
 
+<p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
