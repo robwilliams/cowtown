@@ -58,7 +58,7 @@ The Help You Need is Here.</h3>
    <li>Do you want to learn to play better, in less time than everyone else?</li>
    <li>Do you want to understand what you do?</li>
    <li>Do you want to play without limits and liberate your mind?</li>
-   <li>do you want an uncommon learning experience, rather than the "monkey-see, monkey-do" teaching?</li>
+   <li>do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
    
    </ul>
    </p>
