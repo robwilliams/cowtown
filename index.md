@@ -58,7 +58,7 @@ The Help You Need is Here.</h3>
    <li>Do you want to learn to play better, in less time than everyone else?</li>
    <li>Do you want to understand what you do?</li>
    <li>Do you want to play without limits and liberate your mind?</li>
-   <li>do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
+   <li>Do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
    
    </ul>
    </p>
@@ -67,7 +67,7 @@ The Help You Need is Here.</h3>
    
    
    
-   I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life, so that's what I will show you, all the way: from wherever you are - right now - to wherever you want to get to. 
+   I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
 </p>
 <p>   
    And if you want to shake off the delusion of difficulty (who is daft enough to want <em>that?</em>) you're in the right place. 
