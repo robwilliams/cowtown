@@ -52,13 +52,13 @@ The Help You Need is Here.</h3>
 <p>   
    Ask yourself these simple questions: 
    <ul>
-   <li>Do I want to find out how to play every song, in every key, in every style?</li>
-   <li>Do I want to find out a faster way to learn to play?</li>
-   <li>Do I want to play until my fingers bleed, or with ease and comfort?</li>
-   <li>How can I get to play better, but in less time than everyone else?</li>
-   <li>Do you want to play parrot-fashion, or understand what you do?</li>
+   <li>Do you want to find out how to play every song, in every key, in every style?</li>
+   <li>Do you want to find out a faster way to learn to play?</li>
+   <li>Do you want to play with ease and comfort?</li>
+   <li>Do you want to learn to play better, in less time than everyone else?</li>
+   <li>Do you want to understand what you do?</li>
    <li>Do you want to play without limits and liberate your mind?</li>
-   <li>You deserve better than the "monkey-see, monkey-do" teaching that seems so commonplace, don't you?</li>
+   <li>do you want an uncommon learning experience, rather than the "monkey-see, monkey-do" teaching?</li>
    
    </ul>
    </p>
