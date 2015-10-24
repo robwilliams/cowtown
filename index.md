@@ -13,7 +13,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher,
     <p><h3>BA Hons, Dip. Mus.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
-    <em>The</em> Guitarists' Guitar Teacher.</strong></h2>
+    The Guitarists' Guitar Teacher.</strong></h2>
     
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
@@ -96,3 +96,4 @@ Guitar lessons should be fun, interesting, and take you forward towards your goa
 Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
 
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
+<p>Find me on <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.</a></p>
