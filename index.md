@@ -97,4 +97,6 @@ Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
 
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Find me on <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.</a></p>
-<p>MusikMesse Frankfurt Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
+<p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
+Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></p>
+
