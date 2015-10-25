@@ -93,7 +93,7 @@ Guitar lessons should be fun, interesting, and take you forward towards your goa
 <p>
 <p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
 
-Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!
+<p>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</p>
 <p>Find me on FaceBook <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">Here</a></p>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
