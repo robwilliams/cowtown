@@ -50,25 +50,9 @@ The Help You Need is Here.</h3>
 <p><h4><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.</h4>
 </p>
 
-<h4><p>   
-   Ask yourself these simple questions: 
-   <ul>
-   <li>Do you want to find out how to play every song, in every key, in every style?</li>
-   <li>Do you want to find out a faster way to learn to play?</li>
-   <li>Do you want to play with ease and comfort?</li>
-   <li>Do you want to learn to play better, in less time than everyone else?</li>
-   <li>Do you want to understand what you do?</li>
-   <li>Do you want to play without limits and liberate your mind?</li>
-   <li>Do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
-   
-   </ul>
-   </p></h4>
+
 <p>
-   
-   
-   
-   
-   I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
+     I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
 </p>
 <p>   
    And if you want to shake off the delusion of difficulty (who is daft enough to want <em>that?</em>) you're in the right place. 
@@ -81,6 +65,19 @@ The Help You Need is Here.</h3>
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 </p>
+<h5><p>   
+   Ask yourself these simple questions: 
+   <ul>
+   <li>Do you want to find out how to play every song, in every key, in every style?</li>
+   <li>Do you want to find out a faster way to learn to play?</li>
+   <li>Do you want to play with ease and comfort?</li>
+   <li>Do you want to learn to play better, in less time than everyone else?</li>
+   <li>Do you want to understand what you do?</li>
+   <li>Do you want to play without limits and liberate your mind?</li>
+   <li>Do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
+   
+   </ul>
+   </p></h5>
 <p>
  
   I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
