@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neil Cowmeadow, Guitar Tuition, Guitar s, Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert, How to Play Guitar, How to Play Bass, DBS, CRB checked, Broseley, Bridgnorth, Much Wenlock, How to Compose, Composition, Technique, Easy Guitar, For Beginners, For Intermediates, For Experts, easy strings, song writing, arthritis, pain, wrist, fingers, sore
+title: Neil Cowmeadow, Guitar Tuition, Guitar Teacher, Bridgnorth Guitar Lessons, Telford Guitar Lessons, Broseley Guitar Lessons, Individual Guitar Lessons, Children's Guitar Lessons, Guitar Lessons, Bass Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert, How to Play Guitar, How to Play Bass, DBS, CRB checked, Broseley, Bridgnorth, Much Wenlock, How to Compose, Composition, Technique, Easy Guitar, Easy Guitar Lessons, easy strings, intermediate Guitar Lessons, advanced Guitar Lessons, expert Guitar Lessons,For Beginners, For Intermediates, For Experts, easy strings, song writing, arthritis, pain, wrist, fingers, sore, guitar pain, guitar rehab, guitar rehabilitation, free guitar lessons, guitar technique, guitar guide, guitar coach.
 
 ---
 
