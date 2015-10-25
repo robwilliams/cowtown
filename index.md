@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neil Cowmeadow, Guitar Tuition, Guitar Teacher, Bridgnorth Guitar Lessons, Telford Guitar Lessons, Broseley Guitar Lessons, Guitar Lessons in Telford, Telford Music Lessons, Shropshire Guitar Lessons, Shropshire Guitar Teacher, Individual Guitar Lessons, Children's Guitar Lessons, Guitar Lessons, Bass Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert, How to Play Guitar, How to Play Bass, DBS, CRB checked, Broseley, Bridgnorth, Much Wenlock, How to Compose, Composition, Technique, Easy Guitar, Easy Guitar Lessons, easy strings, intermediate Guitar Lessons, advanced Guitar Lessons, expert Guitar Lessons,For Beginners, For Intermediates, For Experts, easy strings, song writing, arthritis, pain, wrist, fingers, sore, guitar pain, guitar rehab, guitar rehabilitation, free guitar lessons, guitar technique, guitar guide, guitar coach.
+title: Neil Cowmeadow, Guitar Tuition, Guitar Teacher, Telford Guitar Teacher, Bridgnorth Guitar Lessons, Telford Guitar Lessons, Broseley Guitar Lessons, Guitar Lessons in Telford, Telford Music Lessons, Shropshire Guitar Lessons, Shropshire Guitar Teacher, Individual Guitar Lessons, Children's Guitar Lessons, Guitar Lessons, Bass Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert, How to Play Guitar, How to Play Bass, DBS, CRB checked, Broseley, Bridgnorth, Much Wenlock, How to Compose, Composition, Technique, Easy Guitar, Easy Guitar Lessons, easy strings, intermediate Guitar Lessons, advanced Guitar Lessons, expert Guitar Lessons,For Beginners, For Intermediates, For Experts, easy strings, song writing, arthritis, pain, wrist, fingers, sore, guitar pain, guitar rehab, guitar rehabilitation, free guitar lessons, guitar technique, guitar guide, guitar coach.
 
 ---
 
@@ -49,7 +49,8 @@ The Help You Need is Here.</h3>
 </p>
 <p><h4><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.</h4>
 </p>
-<p>   
+
+<h4><p>   
    Ask yourself these simple questions: 
    <ul>
    <li>Do you want to find out how to play every song, in every key, in every style?</li>
@@ -61,7 +62,7 @@ The Help You Need is Here.</h3>
    <li>Do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
    
    </ul>
-   </p>
+   </p></h4>
 <p>
    
    
