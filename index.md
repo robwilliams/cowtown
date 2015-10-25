@@ -16,7 +16,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teacher, Bridgnorth Guitar Lessons
     The Guitarists' Guitar Teacher.</strong></h2>
     
     <h3>Play Better, Feel Better.</h3>
-    <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Customised Lessons for all Ages and Abilities.</h3>
+    <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Personalised Guitar Lessons for all Ages and Abilities.</h3>
   </div>
 </div>
 <p></p>
@@ -47,7 +47,7 @@ The Help You Need is Here.</h3>
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods I'd been using for 23 years, accelerating progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p>
 </p>
-<p><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.
+<p><h4><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.</h4>
 </p>
 <p>   
    Ask yourself these simple questions: 
