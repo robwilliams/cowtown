@@ -40,11 +40,23 @@ The Help You Need is Here.</h3>
 
 <p>
 </p>
+<p>  A long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time...
+</p>
+<p>
+That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
+
+<p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
+<p>I stuck with it for years, until I finally hit rock-bottom and decided to quit the usual path I was on and start over from zero. That turned out to be best thing that ever happened to me, because I began to search outside of the world of music and guitar for better answers to the problem of learning to play guitar. </p>
+
+<p>The real problem is that we've all been lied to and suckered-in to a way of thinking that virtually guarantees we'll have a tough time learning to play. Even before we begin, most of us are doomed to accept difficulty and frustration, even though there is no reason to suffer. 
+</p>
+<p>That lie is like an ancient curse laid upon us by the gods of antiquity, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
 <p>
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
+
 <p>   
-   Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods I'd been using for 23 years, accelerating progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
+   Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p>
 </p>
 <p><h4><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.</h4>
