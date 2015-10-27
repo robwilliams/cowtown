@@ -40,7 +40,7 @@ The Help You Need is Here.</h3>
 
 <p>
 </p>
-<p>  A long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time...
+<p> <strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em><strong>
 </p>
 <p>
 That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
