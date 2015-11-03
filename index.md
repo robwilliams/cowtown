@@ -54,7 +54,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
-<iframe width=”560″ height=”315″ src=”http://www.youtube.com/embed/3YFKsFTsYug?rel=0&autoplay=1” frameborder=”0″ allowfullscreen></iframe>
+
 <p>   
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p>
