@@ -31,7 +31,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>
 <h3 style="text-align: center">
 
-The Help You Need is Here.</h3>
+The Help You Need is Finally Here.</h3>
 </p>
 <p></p>
 <p></p>
