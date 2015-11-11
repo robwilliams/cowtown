@@ -22,11 +22,11 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
    <p>
-   <h3>
+   <h4>
    <em>
-   <strong>"... Neil Cowmeadow Is probably the best teacher there is." </strong>
+   <strong><font color="red">This is some text!"... Neil Cowmeadow Is probably the best teacher there is."</font></strong>
    </em>  
-   Tom Boddison.</h3> 
+   <style="text-align: right">Tom Boddison.</h4> 
    </p>
 <p>
 <h4 style="text-align: center">
@@ -61,7 +61,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p>
 </p>
-<p><h4><em><strong>"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </strong></em>  John Cooper.</h4>
+<p><h4><em><strong><font color="red">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
 
 
