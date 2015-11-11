@@ -24,9 +24,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <p>
    <h4>
    <em>
-   <strong><font color="red">This is some text!"... Neil Cowmeadow Is probably the best teacher there is."</font></strong>
+   <strong><font color="red">"... Neil Cowmeadow Is probably the best teacher there is."</font></strong>
    </em>  
-   <style="text-align: right">Tom Boddison.</h4> 
+   Tom Boddison.</h4> 
    </p>
 <p>
 <h4 style="text-align: center">
