@@ -43,7 +43,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p><h4>Peter James talks about working with me:</h4></p>
 
-<iframe width="690" height="388" src="https://www.youtube.com/embed/ee4SkTG_A4s" frameborder="0" allowfullscreen></iframe>
+<iframe width="690" height="388" src="https://www.youtube.com/embed/ee4SkTG_A4s&rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>
 </p>
