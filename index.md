@@ -122,7 +122,7 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 <p> 
 <h4>
    <em>
-   <strong><font color="red">"...niled it!..."font></strong>
+   <strong><font color="red">"...Nailed it!..."</font></strong>
    </em>  
     - Steve Holford</h4> 
     <p>
