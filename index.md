@@ -41,7 +41,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ee4SkTG_A4s" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s&rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>
 </p>
