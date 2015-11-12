@@ -118,7 +118,14 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
 </p>
 <p></p>
-<p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yfoVmBzlQ5E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
+<p> 
+<h4>
+   <em>
+   <strong><font color="red">"...niled it!..."font></strong>
+   </em>  
+    - Steve Holford</h4> 
+    <p>
 Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
 </p>
 <p></p>
