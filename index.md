@@ -35,7 +35,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>
 <h4 style="text-align: center">
 
-"The True Teacher’s calling is to guide the student toward revelation from within, to illuminate the unknown and to nurture the full flowering of the Student and ultimately liberate the Student from the Teacher."  -  Neil Cowmeadow.</h4></p>
+"The True Teacher’s calling is to guide the student toward revelation from within, to illuminate the unknown and to nurture the full flowering of the Student; ultimately liberating the Student from the Teacher."  -  Neil Cowmeadow.</h4></p>
 <p>
 <h4 style="text-align: center">The Help You Need is Finally Here.</h4>
 </p>
