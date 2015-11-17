@@ -18,14 +18,16 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Personalised Guitar Lessons for all Ages and Abilities.</h3>
   </div>
-  <p>Monday 16 November 2015</p>
+  <p>Tuesday, 17 November 2015</p>
 </div>
 <p></p>
+<p> </p>
 <p> </p>
 <p> 
 
 </p>
 <p><h4>Tom Boddison talks about working with me:</h4></p>
+<p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3YFKsFTsYug?rel=0" frameborder="0" allowfullscreen></iframe>
    <p>
    <h4>
@@ -48,7 +50,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
 <p><h4>Peter James talks about working with me:</h4></p>
-
+<p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>
@@ -124,6 +126,7 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 </p>
 <p></p>
 <p><h4>Steve Holford talks about working with me:</h4></p>
+<p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yfoVmBzlQ5E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 <p> 
 <h4>
@@ -138,8 +141,9 @@ Guitar lessons should be fun, interesting, and take you forward towards your goa
 <p>
 <p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
 
-<p>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</p>
-<p>Find me on FaceBook <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">Here</a> and read reviews from students.</p>
+<p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
+</p>
+Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
 <p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
