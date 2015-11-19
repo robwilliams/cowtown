@@ -5,7 +5,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 ---
 
 <div class="jumbotron">
-  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'click-to-dial'); return true;">
+  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Call
   </a>
   <div class="text">
@@ -18,7 +18,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3>Play Better, Feel Better.</h3>
     <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Personalised Guitar Lessons for all Ages and Abilities.</h3>
   </div>
-  <p>Wednesday, 18 November 2015</p>
+  <p>Thursday, 19 November 2015</p>
 </div>
 <p></p>
 <p> </p>
