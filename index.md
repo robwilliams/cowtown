@@ -16,9 +16,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     The Guitarists' Guitar Teacher.</strong></h2>
     
     <h3>Play Better, Feel Better.</h3>
-    <h3> Expert Tuition in Electric, Acoustic and Bass Guitar.<br/>Personalised Guitar Lessons for all Ages and Abilities.</h3>
+    <h3> Expert Tuition for all Ages and Abilities.</h3>
   </div>
-  <p>Saturday, 21 November 2015</p>
+  <p>Sunday, 22 November 2015</p>
 </div>
 <p></p>
 <p> </p>
