@@ -13,15 +13,15 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3>BA Hons, Dip. Mus.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
-    Reality-Based, Clear and Above All Else - Fun!</strong></h2>
+    "Learn the Little-Known Secrets of The Great PLayers - Fast!"</strong></h2>
     
-    <h3>Play Better, Feel Better.</h3>
-    <h3> Teaching You What Nobody Else Can.</h3>
+    <p><h3></h3></p>
+    <h3> A Fresh Approach to Teaching You What Nobody Else Can.</h3>
   </div>
-  <p>Monday, 23 November 2015</p>
+  <p>Tuesday, 24th November 2015</p>
 </div>
-<p></p>
-<p> </p>
+<p>  </p>
+<p>    </p>
 <p> </p>
 <p> 
 
