@@ -35,7 +35,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
    </ul>
    </p>
-   <h2>Then</h2> this could be the most significant phone call you ever make. 
+   <h2>Then</h2> <h4>this could be the most significant phone call you ever make. 
    Click on the green button to dial direct from your mobile device.
    </p></h4>
    <p><h4>
