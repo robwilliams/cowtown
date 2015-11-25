@@ -37,13 +37,21 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    Then this could be the most significant phone call you ever make. 
    Click on the green button to dial direct from your mobile device.
    </p></h4>
+       <p>
+Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
+</p>
+<p></p>
+<p>
+<p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
+
+
 <p>  </p>
 <p>    </p>
 <p> </p>
 <p> 
 
 </p>
-<p><h4>Tom Boddison talks about working with me:</h4></p>
+<p><h3>Tom Boddison talks about working with me:</h3></p>
 <p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3YFKsFTsYug?rel=0" frameborder="0" allowfullscreen></iframe>
    <p>
@@ -66,7 +74,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
 <p></p>
-<p><h4>Peter James talks about working with me:</h4></p>
+<p><h3>Peter James talks about working with me:</h5></p>
 <p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
  <p>
@@ -141,7 +149,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
 </p>
 <p></p>
-<p><h4>Steve Holford talks about working with me:</h4></p>
+<p><h3>Steve Holford talks about working with me:</h3></p>
 <p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yfoVmBzlQ5E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 <p> 
@@ -150,9 +158,7 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
    <strong><font color="red">"So cool...Nailed it!...Love It!"</font></strong>
    </em>  
     - Steve Holford</h4> 
-    <p>
-Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
-</p>
+
 <p></p>
 <p>
 <p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
