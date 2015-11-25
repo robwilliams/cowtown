@@ -18,10 +18,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3></h3></p>
     <h3> I Can Teach You What Nobody Else Can.</h3>
   </div>
-  <p>Wednesday, 25th November 2015</p>
+  <p><h4>Wednesday, 25th November 2015</h4></p>
 </div>
  <h2><p>
-   If: 
+   If... 
    </p></h2>
    <h4><p>  
    <ul>
@@ -34,7 +34,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <li>You want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching.</li>
    
    </ul>
-   Then this could be the most significant phone call you ever make. 
+   ...Then this could be the most significant phone call you ever make. 
    Click on the green button to dial direct from your mobile device.
    </p></h4>
    <p>
@@ -42,7 +42,7 @@ Guitar lessons should be fun, interesting, and take you forward towards your goa
 </p>
 <p></p>
 <p>
-<p><h2>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h2></p>
+<p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3</p>
 
 
 <p>  </p>
