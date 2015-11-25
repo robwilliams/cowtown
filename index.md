@@ -13,15 +13,17 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3>BA Hons, Dip. Mus.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
-    "Learn the Little-Known Secrets of The Great PLayers!"</strong></h2>
+    "Learn the Little-Known Secrets of The Great Players!"</strong></h2>
     
     <p><h3></h3></p>
     <h3> I Can Teach You What Nobody Else Can.</h3>
   </div>
   <p>Wednesday, 25th November 2015</p>
 </div>
-<h4><p>   
+ <h2><p>
    If: 
+   </p></h2>
+   <h4><p>  
    <ul>
    <li>You want to find out how to play every song, in every key, in every style,</li>
    <li>You want to find out a faster way to learn to play,</li>
