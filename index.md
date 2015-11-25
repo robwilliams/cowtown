@@ -38,11 +38,11 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    Click on the green button to dial direct from your mobile device.
    </p></h4>
    <p><h4>
-Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
+        Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
 </h4></p>
 <p></p>
 <p>
-<p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
+<p><h3>Gift Vouchers Are Available Now - Give Music this year!</h3></p>
 
 
 <p>  </p>
