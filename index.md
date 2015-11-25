@@ -13,13 +13,28 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3>BA Hons, Dip. Mus.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
-    "Learn the Little-Known Secrets of The Great PLayers - Fast!"</strong></h2>
+    "Learn the Little-Known Secrets of The Great PLayers!"</strong></h2>
     
     <p><h3></h3></p>
-    <h3> A Fresh Approach to Teaching You What Nobody Else Can.</h3>
+    <h3> I Can Teach You What Nobody Else Can.</h3>
   </div>
-  <p>Tuesday, 24th November 2015</p>
+  <p>Wednesday, 25th November 2015</p>
 </div>
+<h4><p>   
+   If: 
+   <ul>
+   <li>You want to find out how to play every song, in every key, in every style,</li>
+   <li>You want to find out a faster way to learn to play,</li>
+   <li>You want to play with greater ease and comfort,</li>
+   <li>You want to learn to play better, in less time,</li>
+   <li>You want to understand what you're playing,</li>
+   <li>You want to play without limits and liberate your mind,</li>
+   <li>You want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching.</li>
+   
+   </ul>
+   Then this could be the most significant phone call you ever make. 
+   Click on the green button to dial direct from your mobile device.
+   </p></h4>
 <p>  </p>
 <p>    </p>
 <p> </p>
@@ -60,9 +75,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p> 
+<p>  
 </p>
-<p> 
+<p>  
 </p>
 <p> 
 </p>
@@ -113,19 +128,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 </p>
 <p></p>
-<h5><p>   
-   Ask yourself these simple questions: 
-   <ul>
-   <li>Do you want to find out how to play every song, in every key, in every style?</li>
-   <li>Do you want to find out a faster way to learn to play?</li>
-   <li>Do you want to play with ease and comfort?</li>
-   <li>Do you want to learn to play better, in less time than everyone else?</li>
-   <li>Do you want to understand what you do?</li>
-   <li>Do you want to play without limits and liberate your mind?</li>
-   <li>Do you want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching?</li>
-   
-   </ul>
-   </p></h5>
+
 <p>
 <p></p>
  
