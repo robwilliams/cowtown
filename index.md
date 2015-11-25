@@ -34,7 +34,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <li>You want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching.</li>
    
    </ul>
-   ...Then this could be the most significant phone call you ever make. 
+   </p>
+   <h2>Then</h2> this could be the most significant phone call you ever make. 
    Click on the green button to dial direct from your mobile device.
    </p></h4>
    <p><h4>
