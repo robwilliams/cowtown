@@ -13,12 +13,12 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3>BA Hons, Dip. Mus.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
-    "Learn the Little-Known Secrets of The Great Players!"</strong></h2>
+    "Secret Weapons for Guitarists!"</strong></h2>
     
     <p><h3></h3></p>
-    <h3> I Can Teach You What Nobody Else Can.</h3>
+    <h3>Guitar Teaching based on Reality, Not Hype.</h3>
   </div>
-  <p><h4>Saturday, 28th November 2015</h4></p>
+  <p><h4>Sunday, 29th November 2015</h4></p>
 </div>
  <h2><p>
    If... 
