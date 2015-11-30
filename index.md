@@ -16,7 +16,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     "Secret Weapons for Guitarists!"</strong></h2>
     
     <p><h3></h3></p>
-    <h3>Unconventional Guitar Teaching Built on Reality, Not Tradition.</h3>
+    <h3>Unconventional Teaching Built on Reality, Not Dogma.</h3>
   </div>
   <p><h4>Monday, 30th November 2015</h4></p>
 </div>
