@@ -18,7 +18,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3></h3></p>
     <h3>Unconventional Teaching Built on Clarity, Not Dogma.</h3>
   </div>
-  <p><h4>Tuesday, 1st December, 2015</h4></p>
+  <p><h4>Wednesday, 2nd December, 2015</h4></p>
 </div>
  <h2><p>
    If... 
