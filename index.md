@@ -16,7 +16,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     "Secret Weapons for Guitarists!"</strong></h2>
     
     <p><h3></h3></p>
-    <h3>Move Yourself From Mystery to Mastery.</h3>
+    <h3>Move Yourself From Mystery to Mastery - PLay Without Limits</h3>
   </div>
   <p><h4>Thursday, 3rd December, 2015</h4></p>
 </div>
@@ -25,14 +25,21 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p></h2>
    <h4><p>  
    <ul>
-   <li>You want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching.</li>
-   <li>You want to find out how to play every song, in every key, in every style,</li>
+  
+  <li> You want better than "monkey-see, monkey-do" teaching,</li>
+  <li>You want to find out a faster way to learn to play,</li> 
   <li>You want to play better, faster, and in less time,</li>
-   <li>You want to find out a faster way to learn to play,</li>
-   <li>You want to play with total ease and comfort,</li>
-  <li>You want to understand what you're playing,</li>
-  <li>You want to unleash your own creativity.</li>
-     <li>You want to play without limits.</li>
+  <li>You want an uncommon, fun learning experience,</li>
+  <li>You want to play with total ease and comfort,</li>
+  <li>You want to play every song, in every key,</li>
+  <li>You want to unleash your own creativity,</li>
+  <li>You want to take action right now,</li>
+  <li>You want to get the help you need,</li>
+  <li>You want to play without limits,</li>
+  <li>You want to play every style,</li>
+  <li>You want to understand.</li>
+  
+  
    
    
    
