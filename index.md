@@ -25,13 +25,16 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p></h2>
    <h4><p>  
    <ul>
-   <li>You want to find out how to play every song, in every key, in every style,</li>
-   <li>You want to find out a faster way to learn to play,</li>
-   <li>You want to play with greater ease and comfort,</li>
-   <li>You want to learn to play better, in less time,</li>
-   <li>You want to understand what you're playing,</li>
-   <li>You want to play without limits and liberate your mind,</li>
    <li>You want an uncommon learning experience, rather than "monkey-see, monkey-do" teaching.</li>
+   <li>You want to find out how to play every song, in every key, in every style,</li>
+  <li>You want to play better, faster, and in less time,</li>
+   <li>You want to find out a faster way to learn to play,</li>
+   <li>You want to play with total ease and comfort,</li>
+  <li>You want to understand what you're playing,</li>
+  <li>You want to unleash your own creativity.</li>
+     <li>You want to play without limits.</li>
+   
+   
    
    </ul>
    </p>
