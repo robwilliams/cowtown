@@ -3,8 +3,8 @@ layout: default
 title: Guitar Technician / Repair Service
 ---
 
-<p>You know how an engine runs when it is tuned to perfection?</p><p>
-Well, guitars are just the same: a little expert attention can seriously improve tone and playability. 
+<p><h3>You know how an engine runs when it is tuned to perfection?</h3></p>
+<p>Well, guitars are just the same: a little expert attention can seriously improve tone and playability. 
 </p><p>
 In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
 </p><p>
