@@ -16,7 +16,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     "Secret Weapons for Guitarists!"</strong></h2>
     
     <p><h3></h3></p>
-    <h3>Move Yourself From Mystery to Mastery - Play Without Limits</h3>
+    <h3><p>Move Yourself From Mystery to Mastery - Play Without Limits.</P>
+    <p>Mind, Body and Guitar in Harmony.</p></h3>
   </div>
   <p><h4>Friday, 4th December, 2015</h4></p>
 </div>
