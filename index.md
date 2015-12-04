@@ -26,7 +26,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <h4><p>  
    <ul>
   
-  <li> You want better than "monkey-see, monkey-do" teaching,</li>
+  <li>You want better than "monkey-see, monkey-do" teaching,</li>
   <li>You want to find out a faster way to learn to play,</li> 
   <li>You want to play better, faster, and in less time,</li>
   <li>You want an uncommon, fun learning experience,</li>
@@ -46,10 +46,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </ul>
    </p>
    <h2>Then...</h2> <h4>...this could be the most significant phone call you ever make. 
-   Click on the green button to dial direct from your mobile device.
-   </p></h4>
+      </p></h4>
    <p><h4>
-        Guitar lessons should be fun, interesting, and take you forward towards your goals. Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
+        Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
 </h4></p>
 <p></p>
 <p>
@@ -115,7 +114,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 </p>
 <p></p>
 <p>That lie is like an ancient curse laid upon us by the gods of antiquity, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
-<p></p>
+<p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
 <p>
 
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
