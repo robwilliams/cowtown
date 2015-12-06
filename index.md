@@ -53,7 +53,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </h4></p>
 <p></p>
 <p>
-<p><h3>Gift Vouchers Are Available Now - Give Music this year!</h3></p>
+
 
 
 <p>  </p>
