@@ -19,7 +19,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3><p>From Mystery to Mastery - Without Limits.</P>
     <p>"...Secret Weapons for Guitarists!"</p></h3>
   </div>
-  <p><h4>Sunday, 6th December, 2015</h4></p>
+  <p><h4>Monday, 7th December, 2015</h4></p>
 </div>
  <h2><p>
    If... 
@@ -58,7 +58,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <p>  </p>
 <p>    </p>
-<p> </p>
+<p>       </p>
 <p> 
 
 </p>
