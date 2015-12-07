@@ -19,7 +19,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3><p>From Mystery to Mastery - Without Limits.</P>
     <p>"...Secret Weapons for Guitarists!"</p></h3>
   </div>
-  <p><h4>Monday, 7th December, 2015</h4></p>
+  <p><h4>Tuesday, 8th December, 2015</h4></p>
 </div>
  <h2><p>
    If... 
@@ -28,11 +28,12 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <ul>
   
   <li>You want better than "monkey-see, monkey-do" teaching,</li>
-  <li>You want to find out a faster way to learn to play,</li> 
+   
   <li>You want to play better, faster, and in less time,</li>
   <li>You want an uncommon, fun learning experience,</li>
   <li>You want to play with total ease and comfort,</li>
   <li>You want to play every song, in every key,</li>
+  <li>You want to a faster way to learn to play,</li>
   <li>You want to unleash your own creativity,</li>
   <li>You want to take action right now,</li>
   <li>You want to get the help you need,</li>
