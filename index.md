@@ -19,7 +19,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3><p>From Mystery to Mastery - Without Limits.</P>
     <p>"...Secret Weapons for Guitarists!"</p></h3>
   </div>
-  <p><h4>Sunday, 13th December, 2015</h4></p>
+  <p><h4>Monday, 14th December, 2015</h4></p>
 </div>
  <h2><p>
    If... 
@@ -137,21 +137,21 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>   
    And if you want to shake off the delusion of difficulty (who is daft enough to want <em>that?</em>) you're in the right place. 
  </p>
- <p></p>
+ <p>   </p>
 <p> 
   When we work together, you'll discover what the guitar really is - with straight talk. 
   </p>
-  <p></p>
+  <p>   </p>
 <p>I don't peddle  nonsense, or settle into dogmatically teaching conventional wisdom. I decline to be Cool or use self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius" to the people I help. What I do is give you a unique system that lays bare the way music works on the guitar.
 </p>
-<p></p>
+<p>  </p>
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 </p>
-<p></p>
+<p>   </p>
 
-<p>
-<p></p>
+<p>  </p>
+<p>   </p>
  
   I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
 </p>
