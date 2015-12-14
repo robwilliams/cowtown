@@ -120,6 +120,10 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 
    I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
+<div class="jumbotron">
+  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
+    Call
+  </a>
 <p></p>
 <p>   
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
@@ -171,8 +175,14 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
     - Steve Holford</h4> 
 
 <p></p>
-<p>
+<p> </p>
 <p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
+<p><h4>Are You ready to get the Help You need?</p>
+<p>Click the button to dial direct, or use the numbers underneath the button to call. Your only regret will be that it took so long to find out what lou are going to learn.<h4></p>
+<div class="jumbotron">
+  <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
+    Yes Please, Neil
+  </a>
 
 <p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
 </p>
