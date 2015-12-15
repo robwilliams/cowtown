@@ -178,7 +178,7 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 <p> </p>
 <p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
 <p><h4>Are You ready to get the Help You need?</p>
-<p>Click the button to dial direct, or use the numbers underneath the button to call. Your only regret will be that it took so long to find out what lou are going to learn.<h4></p>
+<p>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.<h4></p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Yes Please, Neil
