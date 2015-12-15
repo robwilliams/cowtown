@@ -119,11 +119,11 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
 <p>
 
-   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's over <strong>34,000 hours</strong> (Yes, you read it right - Thirty-Four Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
+   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Call
+    Direct Dial
   </a>
 <p></p>
 <p>   
