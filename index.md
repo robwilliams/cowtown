@@ -6,7 +6,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Call
+    Direct Dial Now
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
