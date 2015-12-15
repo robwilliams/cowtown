@@ -4,7 +4,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 ---
 
-div class="jumbotron">
+<div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Call
   </a>
@@ -20,7 +20,7 @@ div class="jumbotron">
     <p>"Stealthily Developing Secret Weapons for Guitarists!"</p></h3>
   </div>
   <p><h4>Tuesday, 15th December, 2015</h4></p>
-  <
+  
 </div>
  <h2><p>
    If... 
