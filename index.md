@@ -17,9 +17,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     
     <p><h3>Uniting Mind, Body, and Instrument.</h3></p>
     <h3><p>From Mystery to Mastery - Without Limits.</P>
-    <p>"...Secret Weapons for Guitarists!"</p></h3>
+    <p>"Stealthily Developing Secret Weapons for Guitarists!"</p></h3>
   </div>
-  <p><h4>Monday, 14th December, 2015</h4></p>
+  <p><h4>Tuesday, 15th December, 2015</h4></p>
 </div>
  <h2><p>
    If... 
