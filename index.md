@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h3>BA Hons, Dip. Mus.</h3></p>
+    <p><h3>BA Hons, Dip. Mus., Cert. NLP.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
     </strong></h2>
@@ -19,7 +19,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3><p>From Mystery to Mastery - Without Limits.</P>
     <p>"Secret Weapons for Guitarists!"</p></h3>
   </div>
-  <p><h4>Thursday, 17th December, 2015</h4></p>
+  <p><h4>Friday, 18th December, 2015</h4></p>
   
 </div>
  <h2><p>
