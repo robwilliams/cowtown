@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h3>BA Hons, Dip. Mus., Cert. NLP.</h3></p>
+    <p><h3>BA (Hons), Dip. Mus., Cert. NLP.</h3></p>
     <br />
     <h2 style="text-decoration:underline;">
     </strong></h2>
