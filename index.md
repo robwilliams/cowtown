@@ -20,7 +20,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </div>
   <p><h4>Wednesday, 23rd December, 2015</h4></p>
   <p><h4>     </h4></p>
-  <p><h4>Very Limited Availability  - Call Now for New Year Bookings.</h4></p>
+  <p><h4>Call Now for New Year Bookings or to find out more.</h4></p>
 </div>
  <h2><p>
    If... 
