@@ -17,7 +17,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     
     <p><h3>Uniting Mind, Body, and Instrument.</h3></p>
     <h3><p>Discover How To Avoid the Common Errors and Misconceptions which can Permanently Ruin Your Chances of Ever Playing well.</p>
-    <p>Learn How To Move From Mystery to Mastery - Without Limits - Using The Guitarist's Secret Weapon and my Simple, Proven System that Never Fails.</p></h3>
+    <p>Learn How To Play Painlessly by Using My Simple, Proven System.</p></h3>
   </div>
   <p><h2>New Year's Day - Friday 1st January 2016</h2></p>
   <p><h3>Happy New Year! Is this the Year When You Learn to REALLY Play?</h3></p>
