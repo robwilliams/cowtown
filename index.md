@@ -19,9 +19,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h3><p>Discover How To Avoid the Common Errors and Misconceptions which can Permanently Ruin Your Chances of Ever Playing well.</p>
     <p>Learn How To Play Painlessly by Using My Simple, Proven System.</p></h3>
   </div>
-  <p><h2>Saturday 2nd January 2016</h2></p>
-  <p><h3>Happy New Year! Is this the Year When You Learn to REALLY Play?</h3></p>
-  <p><h4>Call Now to find out about working with me in 2016.</h4></p>
+  <p><h2>Sunday 3rd January 2016</h2></p>
+  <p><h3></h3></p>
+  <p><h4></h4></p>
 </div>
  <h2><p>
    If... 
