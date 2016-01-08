@@ -15,7 +15,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h2 style="text-decoration:underline;">
     </strong></h2>
     
-    <p><h3>Uniting Mind, Body, and Instrument - Because Where the Mind Goes, the Body Must Follow.</h3></p>
+    <p><h3>Uniting Mind, Body, and Instrument - Because Where the Mind Goes, the Body Follows.</h3></p>
     <h3><p>Discover How To Avoid the Common Errors and Misconceptions which can Permanently Ruin Your Chances of Ever Playing well.</p>
     <p>Learn How To Play Painlessly by Using My Simple, Proven System.</p></h3>
   </div>
