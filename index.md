@@ -51,7 +51,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <h2>Then...</h2> <h4>...this could be the most significant phone call you ever make. 
       </p></h4>
    <p><h4>
-        Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. 
+        Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. Find out the difference that makes all the difference
 </h4></p>
 <p></p>
 <p>
