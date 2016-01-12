@@ -16,7 +16,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     </strong></h2>
     
     <p><h3>Where the Mind Goes, the Body Follows.</h3></p>
-    <h3><p>Think the Unthinkable - and Avoid the Errors that Wreck Most Peoples' Playing.</p>
+    <h3><p>Avoid the Errors that Wreck Most Peoples' Playing.</p>
     <p>Learn to Play Easily, Using My Simple and Proven System.</p></h3>
   </div>
   <p><h2>Limited Availability for New Students in 2016</h2></p>
