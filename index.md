@@ -15,8 +15,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h2 style="text-decoration:underline;">
     </strong></h2>
     
-    <p><h3>Precision Guitar Teaching Without Limits.</h3></p>
-    <h3><p>Avoid the Errors that Wreck Your Playing.</p>
+    <p><h3>Creator of The Secret Guitar System that Never Fails.</h3></p>
+    <h3><p>Avoid the Errors that can Wreck Your Playing.</p>
     <p>Learn to Play Easily, Using My Simple and Proven System.</p></h3>
   </div>
   <p><h2>Booked Solid, Get on the Waiting List Today.</h2></p>
