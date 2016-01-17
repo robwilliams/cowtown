@@ -16,10 +16,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     </strong></h2>
     
     <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
-    <h3><p>Avoid the Errors that can Wreck Your Playing.</p>
-    <p>Learn to Play Easily, Using My Simple and Proven System.</p></h3>
+    <h3><p>Find Out How to Avoid the Errors that can Wreck Your Playing,</p>
+    <p>and Learn to Play Easily, Using My Simple and Proven System.</p></h3>
   </div>
-  <p><h2>Booked Solid, Get on the Waiting List Today.</h2></p>
+  <p><h2>No-Nonsense - just the real deal.</h2></p>
   <p><h3></h3></p>
   <p><h4></h4></p>
 </div>
