@@ -183,6 +183,16 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
+<p> <h2 style="text-decoration:underline;">
+    </strong></h2>
+    <p><h3>The Go-To Guitar Guy</h3></p>
+    <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
+    <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
+    <p>and Learn to Play Using My Simple and Proven System.</p></h3>
+  </div>
+  <p><h2>No-Nonsense - just the real deal.</h2></p>
+  <p><h3></h3></p>
+  <p><h4></h4></p>
 <p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
 Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></p>
 
