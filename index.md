@@ -12,16 +12,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA (Hons), Dip. Mus., Cert. NLP.</h3></p>
     <br />
-    <h2 style="text-decoration:underline;">
-    </strong></h2>
-    <p><h3>The Go-To Guitar Guy</h3></p>
-    <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
-    <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
-    <p>and Learn to Play Using My Simple and Proven System.</p></h3>
-  </div>
-  <p><h2>No-Nonsense - just the real deal.</h2></p>
-  <p><h3></h3></p>
-  <p><h4></h4></p>
+   
 </div>
  <h2><p>
    If You Want to... 
