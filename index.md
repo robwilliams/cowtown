@@ -24,23 +24,23 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   <p><h4></h4></p>
 </div>
  <h2><p>
-   If... 
+   If You Want to... 
    </p></h2>
    <h4><p>  
    <ul>
   
-  <li>You want better than "monkey-see, monkey-do" teaching,</li>
-  <li>You want an uncommon, fun learning experience,</li> 
-  <li>You want to play better, faster, and in less time,</li>
-  <li>You want to play with total ease and comfort,</li>
-  <li>You want to play every song, in every key,</li>
- <li>You want to a faster way to learn to play,</li> 
-  <li>You want to unleash your creativity,</li>
-  <li>You want to get the help you need,</li>
-  <li>You want to take action right now,</li>
-    <li>You want to play without limits,</li>
-  <li>You want to play every style,</li>
-  <li>You want to understand.</li>
+  <li>avoid the usual "monkey-see, monkey-do" teachers,</li>
+  <li>have a memorable, fun learning experience,</li> 
+  <li>play better, faster, and in less time,</li>
+  <li>play with total ease and comfort,</li>
+  <li>play every song, in every key,</li>
+  <li>understand and learn faster,</li> 
+  <li>unleash your creativity,</li>
+  <li>get the help you need,</li>
+  <li>take action right now,</li>
+  <li>play without limits,</li>
+  <li>master every style,</li>
+  <li>crack the code.</li>
   
   
    
@@ -48,10 +48,11 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
    </ul>
    </p>
-   <h2>Then...</h2> <h4>...this could be the most significant phone call you ever make. 
+   <h2>Then...</h2> <h4>...this could be the most important phone call you ever make. 
       </p></h4>
    <p><h4>
-        Whether you want to learn guitar or bass just for the fun of it, or you want to know how it is that some players make it look effortless while you're trying hard and getting nowhere - I can help. Find out the difference that makes all the difference
+        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who make it look effortless -  whilst everyone else is trying hard and getting nowhere - I can help.</p>
+        <p>Find out the difference - today - that makes all the difference, for the rest of your life.
 </h4></p>
 <p></p>
 <p>
