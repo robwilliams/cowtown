@@ -136,7 +136,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 </p>
 <p></p>
 <p>   
-   And if you want to shake off the delusion of difficulty (who is daft enough to want <em>that?</em>) you're in the right place. 
+   And if you want to shake off the delusion of difficulty (who is daft enough to want to hold onto <em>that</em> weird belief), you're in the right place. 
  </p>
  <p>   </p>
 <p> 
