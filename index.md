@@ -15,7 +15,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
  <h2><p>
-   If You Want to... 
+   If You Love Music - Like Me - You Want to... 
    </p></h2>
    <h4><p>  
    <ul>
@@ -40,10 +40,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </ul>
    </p>
    </h4>
-   <h2>Then...</h2> <h4>...this could be the most important phone call you ever make. 
+   <h2>Then...</h2> <h4>...The Conversation We'll Have is the Beginning of Your Path to Mastering Everything on Your Wish-List. 
       </p></h4>
    <p><h4>
-        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who make it look effortless -  whilst everyone else is trying hard and getting nowhere - I can help.</p>
+        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</p>
         <p>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.
 </h4></p>
 <p></p>
