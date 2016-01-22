@@ -95,12 +95,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p>      
-</p>
-<p>      
-</p>
-<p> 
-</p>
+<p>  </p>
+<p>      </p>
+<p> </p>
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
 <br/>
@@ -125,12 +122,11 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Direct Dial
   </a>
-<p></p>
+<p> </p>
 <p>   
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p> </p>
 <p> </p>
-</p>
 <p><h4><em><strong><font color="red">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
 
@@ -160,11 +156,11 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
  
   <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
 </p>
-<p></p>
+<p> </p>
 <p>
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
 </p>
-<p></p>
+<p> </p>
 <p><h3>Steve Holford talks about working with me:</h3></p>
 <p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yfoVmBzlQ5E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
@@ -175,7 +171,7 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
    </em>  
     - Steve Holford</h4> 
 
-<p></p>
+<p> </p>
 <p> </p>
 <p><h3>Gift Vouchers Are Available Now - Give Music.</h3></p>
 <p><h4>Are You ready to get the Help You need?</h4></p>
@@ -198,8 +194,8 @@ Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?re
     <p>and Learn to Play Using My Simple and Proven System.</p></h3>
   </div>
   <p><h2>No-Nonsense - just the real deal.</h2></p>
-  <p><h3></h3></p>
-  <p><h4></h4></p>
+  <p><h3> </h3></p>
+  <p><h4> </h4></p>
 <p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
 Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></p>
 
