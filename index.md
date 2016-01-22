@@ -154,9 +154,9 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>  </p>
 <p>   </p>
  
-  <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
+  <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. 
 </p>
-<p> </p>
+<p>As well as being an Accredited RGT (Registry of Guitar Teachers) Tutor, I'm also a certified Life Coach and Certified Neuro-Linguistic Programming (NLP) Practitioner, so you can be sure of a flexible and sympathetic approach, using advanced techniques to accellerate your progress. </p>
 <p>
 I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
 </p>
