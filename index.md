@@ -84,7 +84,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Peter James talks about working with me:</h5></p>
+<p><h3>Peter James talks about working with me:</h3></p>
 <p> </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
  <p>
@@ -95,13 +95,13 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p>  
+<p>    
 </p>
-<p>  
+<p>    
 </p>
-<p> 
+<p>   
 </p>
-<p> <h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
+<p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
 <p>
 That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
