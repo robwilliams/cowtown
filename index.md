@@ -157,8 +157,8 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
   <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. 
 </p>
 <p>As well as being an Accredited RGT (Registry of Guitar Teachers) Tutor, I'm also a certified Life Coach and Certified Neuro-Linguistic Programming (NLP) Practitioner, so you can be sure of a flexible and sympathetic approach, using advanced techniques to accellerate your progress. </p>
-<p>
-I am also fully DBS and CRB checked and cleared, so you have complete peace of mind.
+<p><h4>
+Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with all children and adults, so you have complete peace of mind.</h4>
 </p>
 <p> </p>
 <p><h3>Steve Holford talks about working with me:</h3></p>
