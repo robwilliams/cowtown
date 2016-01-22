@@ -43,7 +43,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p>
    </h4>
    <h2>Then...</h2> <h4>...The Conversation We'll Have is the Beginning of Your Path to Mastering Everything on Your Wish-List. 
-      </p></h4>
+     </h4> </p>
    <p><h4>
         Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</p>
         <p>       </p>
@@ -85,7 +85,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p></p>
 <p></p>
 <p><h3>Peter James talks about working with me:</h3></p>
-<p> </p>
+<p>   </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
  <p>
    <h4>
@@ -103,6 +103,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </p>
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
+<br/>
 <p>
 That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
 <p>   </p>
