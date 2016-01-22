@@ -128,8 +128,8 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p></p>
 <p>   
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
-<p>
-<p></p>
+<p> </p>
+<p> </p>
 </p>
 <p><h4><em><strong><font color="red">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
@@ -138,7 +138,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>
      I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
 </p>
-<p></p>
+<p> </p>
 <p>   
    And if you want to shake off the delusion of difficulty (who is daft enough to want to hold onto <em>that</em> weird belief), you're in the right place. 
  </p>
@@ -158,7 +158,7 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>  </p>
 <p>   </p>
  
-  I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
+  <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. I'm also a certified Life Coach and a NLP Practitioner, so you can be sure of a flexible and sympathetic approach.
 </p>
 <p></p>
 <p>
@@ -177,9 +177,9 @@ I am also fully DBS and CRB checked and cleared, so you have complete peace of m
 
 <p></p>
 <p> </p>
-<p><h3>Gift Vouchers Are Available Now - Giving The Gift of Music is Easy.</h3></p>
-<p><h4>Are You ready to get the Help You need?</p>
-<p>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.<h4></p>
+<p><h3>Gift Vouchers Are Available Now - Give Music.</h3></p>
+<p><h4>Are You ready to get the Help You need?</h4></p>
+<p><h4>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.</h4></p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Yes Please, Neil
