@@ -45,10 +45,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <h2>Then...</h2> <h4>...The Conversation We'll Have is the Beginning of Your Path to Mastering Everything on Your Wish-List. 
      </h4> </p>
    <p><h4>
-        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</p>
+        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
         <p>       </p>
         <p>     </p>
-        <p>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.
+        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.
 </h4></p>
 <p></p>
 <p>
@@ -71,8 +71,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </em>  
     - Tom Boddison.</h4> 
    </p>
-   <p></p>
-   <p></p>
+   <p> </p>
+   <p> </p>
    
 <p>
 <h4 style="text-align: center">
@@ -81,13 +81,13 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>
 <h4 style="text-align: center">Help is Here.</h4>
 </p>
-<p></p>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
+<p> </p>
 <p><h3>Peter James talks about working with me:</h3></p>
 <p>   </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
- <p>
+ <p> </p>
    <h4>
    <em>
    <strong><font color="red">"... I've learned more in a few sessions with you than I did in the previous 13 years and 8 Grades."</font></strong>
@@ -104,6 +104,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
 <br/>
+
 <p>
 That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
 <p>   </p>
