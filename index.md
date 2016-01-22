@@ -95,24 +95,24 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p>    
+<p>      
 </p>
-<p>    
+<p>      
 </p>
-<p>   
+<p> 
 </p>
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
 <p>
 That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
-<p></p>
+<p>   </p>
 <p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
-<p></p>
+<p>   </p>
 <p>I stuck with it for years, until I finally hit rock-bottom and decided to quit the usual path I was on and start over from zero. That turned out to be best thing that ever happened to me, because I began to search outside of the world of music and guitar for better answers to the problem of learning to play guitar. </p>
-<p></p>
+<p>   </p>
 <p>The real problem is that we've all been lied to and suckered-in to a way of thinking that virtually guarantees we'll have a tough time learning to play. Even before we begin, most of us are doomed to accept difficulty and frustration, even though there is no reason to suffer. 
 </p>
-<p></p>
+<p>    </p>
 <p>That lie is like an ancient curse laid upon us by the gods of antiquity, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
 <p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
 <p>
