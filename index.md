@@ -107,45 +107,57 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>   </p>
 <p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
 <p>   </p>
+<p>   </p>
 <p>I stuck with it for years, until I finally hit rock-bottom and decided to quit the usual path I was on and start over from zero. That turned out to be best thing that ever happened to me, because I began to search outside of the world of music and guitar for better answers to the problem of learning to play guitar. </p>
+<p>   </p>
 <p>   </p>
 <p>The real problem is that we've all been lied to and suckered-in to a way of thinking that virtually guarantees we'll have a tough time learning to play. Even before we begin, most of us are doomed to accept difficulty and frustration, even though there is no reason to suffer. 
 </p>
+<p>   </p>
 <p>    </p>
-<p>That lie is like an ancient curse laid upon us by the gods of antiquity, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
+<p>That lie is like an ancient curse laid upon us by a malevolent sorceror, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
+<p>   </p>
+<p>   </p>
 <p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
-<p>
+<p>   </p>
 
-   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
+<p>   </p>
+<p>   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Direct Dial
   </a>
 <p> </p>
+
+<p>   </p>
 <p>   
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p> </p>
 <p> </p>
 <p><h4><em><strong><font color="red">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
-
-
+<p>   </p>
+<p>   </p>
 <p>
      I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
 </p>
 <p> </p>
+<p>   </p>
 <p>   
    And if you want to shake off the delusion of difficulty (who is daft enough to want to hold onto <em>that</em> weird belief), you're in the right place. 
  </p>
+ <p>   </p>
  <p>   </p>
 <p> 
   When we work together, you'll discover what the guitar really is - with straight talk. 
   </p>
   <p>   </p>
+  <p>   </p>
 <p>I don't peddle  nonsense, or settle into dogmatically teaching conventional wisdom. I decline to be Cool or use self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius" to the people I help. What I do is give you a unique system that lays bare the way music works on the guitar.
 </p>
 <p>  </p>
+<p>   </p>
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
 </p>
@@ -156,13 +168,15 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
  
   <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. 
 </p>
-<p>As well as being an Accredited RGT (Registry of Guitar Teachers) Tutor, I'm also a certified Life Coach and Certified Neuro-Linguistic Programming (NLP) Practitioner, so you can be sure of a flexible and sympathetic approach, using advanced techniques to accellerate your progress. </p>
+<p>As well as being an Accredited RGT (Registry of Guitar Teachers) Tutor, I'm also a certified Life Coach and Certified Neuro-Linguistic Programming (NLP) Practitioner, so you can be sure of a flexible and sympathetic approach, using advanced techniques to accelerate your progress. </p>
 <p><h4>
 Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with all children and adults, so you have complete peace of mind.</h4>
 </p>
 <p> </p>
+<p>   </p>
 <p><h3>Steve Holford talks about working with me:</h3></p>
 <p> </p>
+<p>   </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yfoVmBzlQ5E?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
 <p> 
 <h4>
@@ -174,11 +188,13 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
 <p> </p>
 <p> </p>
 <p><h3>Gift Vouchers Are Available Now - Give Music.</h3></p>
+<p>   </p>
 <p><h4>Are You ready to get the Help You need?</h4></p>
+<p>   </p>
 <p><h4>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.</h4></p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Yes Please, Neil
+    Click Here to Call Now
   </a>
 
 <p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
