@@ -79,7 +79,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 "The True Teacher’s calling is to guide the student toward revelation from within, to illuminate the unknown and to nurture the full flowering of the Student; ultimately liberating the Student from the Teacher."  -  Neil Cowmeadow.</h4></p>
 <p>
-<h4 style="text-align: center">Help is Here.</h4>
+<h4 style="text-align: center">That's what I've been consistently doing for over 16 years.</h4>
 </p>
 <p> </p>
 <p> </p>
@@ -103,7 +103,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <br/>
 
 <p>
-That's how it began for me, nearly forty years ago. I still remember the frustration, the sore fingers, and the lack of any kind of sensible explanation of the instrument. </p>
+That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p>
 <p>   </p>
 <p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
 <p>   </p>
@@ -111,7 +111,10 @@ That's how it began for me, nearly forty years ago. I still remember the frustra
 <p>I stuck with it for years, until I finally hit rock-bottom and decided to quit the usual path I was on and start over from zero. That turned out to be best thing that ever happened to me, because I began to search outside of the world of music and guitar for better answers to the problem of learning to play guitar. </p>
 <p>   </p>
 <p>   </p>
-<p>The real problem is that we've all been lied to and suckered-in to a way of thinking that virtually guarantees we'll have a tough time learning to play. Even before we begin, most of us are doomed to accept difficulty and frustration, even though there is no reason to suffer. 
+<p>My breakthroughs started when I began to apply knowledge from outside of the world of music - from outside the fantasy world of rock 'n' roll. It was like lifting the lid on an unsolved mystery.   </p>
+<p>   </p>
+<p>   </p>
+<p>You see, the real problem is that we've all been lied to and suckered-in to a way of thinking that virtually guarantees we'll have a tough time learning to play. Even before we begin, most of us are doomed to accept difficulty and frustration, even though there is no reason to suffer. 
 </p>
 <p>   </p>
 <p>    </p>
