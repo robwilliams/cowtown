@@ -23,6 +23,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <ul>
   
   <li>Avoid the Ordinary "Monkey-See, Monkey-Do" Teachers,</li>
+  <li>Get the Right Foundation, Right from the Start,</li>
   <li>Have a Memorable, Fun Learning Experience,</li> 
   <li>Play Better, Faster, and in Less Time,</li>
   <li>Play with Total Ease and Comfort,</li>
