@@ -26,8 +26,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   <li>Get the Right Foundation, Right from the Start,</li>
   <li>Have a Memorable, Fun Learning Experience,</li> 
   <li>Play Better, Faster, and in Less Time,</li>
+  <li>Get Unconventionally Good Results,</li>
   <li>Play with Total Ease and Comfort,</li>
   <li>Play Any Song, in Any Key, Fast,</li>
+  
   <li>Understand and Learn Faster,</li> 
   <li>Take Control - Right Now,</li>
   <li>Unleash Your Creativity,</li>
@@ -49,7 +51,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
         <p>       </p>
         <p>     </p>
-        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.
+        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.</p>
+        <p>Unconventional Teaching for Unconventional Results.</p>
 </h4></p>
 <p></p>
 <p>
