@@ -75,7 +75,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </em>  
     - Tom Boddison.</h4> 
    </p>
-   <p> </p>
+   <p>Tom is an excellent young player, fluent in many styles: it was a pleasure to be part of maximising his abilities and helping him find more pleasure in his playing. I'm proud of you, Tom!</p>
    <p> </p>
    
 <p>
@@ -99,7 +99,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p>  </p>
+<p>Peter is top bloke and a rapidly-improving rock and pop player, currently studying for his degree in an unrelated subject.</p>
 <p>      </p>
 <p> </p>
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
@@ -192,7 +192,7 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
    </em>  
     - Steve Holford</h4> 
 
-<p> </p>
+<p>Steve began working with me as a bassist, but he had a secret itch to play six-string... </p>
 <p> </p>
 <p><h3>Gift Vouchers Are Available Now - Give Music.</h3></p>
 <p>   </p>
