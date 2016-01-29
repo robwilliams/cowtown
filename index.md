@@ -166,7 +166,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 <p>  </p>
 <p>   </p>
 <p>
-  Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. How cool is that?
+  Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. Now <strong>that's</strong> what I call cool.
 </p>
 <p>   </p>
 
