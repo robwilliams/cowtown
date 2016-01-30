@@ -51,8 +51,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
         <p>       </p>
         <p>     </p>
-        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life.</p>
-        <p>Unconventional Teaching for Unconventional Results.</p>
+        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with ease, grace, elegance and speed that most people only ever dream of.</p>
+            <p>     </p>
+                <p>     </p>
+        <p>You need Unconventional Teaching if You Want Unconventional Results.</p>
 </h4></p>
 <p></p>
 <p>
