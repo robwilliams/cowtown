@@ -12,7 +12,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
     <p><h3>Certified NLP Practitioner & Coach.</h3></p>
-    <p><h3>RGT Accredited Guitar Teacher.</h3></p>
+    <p><h3>Fully-Accredited RGT Guitar Teacher.(Registry of Guitar Teachers)</h3></p>
     <br />
    
 </div>
@@ -36,8 +36,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   <li>Get the Help You Need,</li>
   <li>Play Without Limits,</li>
   <li>Master Every Style,</li>
-  <li>Crack the Code.</li>
-  
+  <li>Play Without Pain,</li>
+  <li>Crack the Code,</li>
+  <li>Have Fun!</li>
   
    
    
