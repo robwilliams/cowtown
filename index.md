@@ -55,7 +55,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the ease, grace and speed that most people only ever dream of.</p>
             <p>     </p>
                 <p>     </p>
-        <p>You need Unconventional Teaching if You Want Unconventional Results.</p>
+        <p>If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Unconventional Results, get an Unconventional teacher.</p>
+        <p>I don't do conventional, and I don't do Ordinary: do you?</p>
 </h4></p>
 <p></p>
 <p>
