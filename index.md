@@ -17,7 +17,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
  <h2><p>
-   If You  - Like Me - Love Music, You Want to... 
+   If You  - Like Me, Love Music, You Want to... 
    </p></h2>
    <h4><p>  
    <ul>
@@ -56,7 +56,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
             <p>     </p>
                 <p>     </p>
         <p>If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Unconventional Results, get an Unconventional teacher.</p>
-        <p>I don't do conventional, and I don't do Ordinary: do you?</p>
+        <p>I don't do conventional, and I don't do Ordinary: How about You?</p>
 </h4></p>
 <p></p>
 <p>
