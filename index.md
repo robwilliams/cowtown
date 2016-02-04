@@ -16,8 +16,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <br />
    
 </div>
- <h2><p>
-   If You  - Like Me, Love Music, You Want to... 
+ <h2><p 
+   If You  - Like Me, Love Music - Then You Want to... 
    </p></h2>
    <h4><p>  
    <ul>
