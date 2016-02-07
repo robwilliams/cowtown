@@ -46,7 +46,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </ul>
    </p>
    </h4>
-   <h2>Then...</h2> <h4>...The Conversation We'll Have is the Beginning of Your Path to Mastering Everything on Your Wish-List. 
+   <h2>Then...</h2> <h4>...the Conversation We're going to Have will be the Beginning of Your Path to Mastering Everything on Your Wish-List. 
      </h4> </p>
    <p><h4>
         Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
