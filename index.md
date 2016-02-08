@@ -59,7 +59,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         <p>I don't do conventional, and I don't do Ordinary: Do You?</p>
 </h4></p>
 <p></p>
-<p>
+<p>   </p>
 
 
 
@@ -220,7 +220,7 @@ Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?re
     <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
     <p>and Learn to Play Using My Simple and Proven System.</p></h3>
   </div>
-  <p><h2>No-Nonsense - just the real deal.</h2></p>
+  <p><h2>No-Nonsense, no BS - just the real deal.</h2></p>
   <p><h3> </h3></p>
   <p><h4> </h4></p>
 <p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
