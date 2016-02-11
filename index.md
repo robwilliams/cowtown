@@ -50,7 +50,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <h2>Then...</h2> <h4>...the Conversation We're going to Have will be the Beginning of Your Path to Mastering Everything on Your Wish-List. 
      </h4> </p>
    <p><h4>
-        Whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
+        Because, whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
         <p>       </p>
         <p>     </p>
         <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the ease, grace and speed that most people only ever dream of.</p>
