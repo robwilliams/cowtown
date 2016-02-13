@@ -227,6 +227,6 @@ Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?re
   <p><h2>No-Nonsense, no BS - just the real deal.</h2></p>
   <p><h3> </h3></p>
   <p><h4> </h4></p>
-<p>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
-Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></p>
+<p><h4>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
+Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></h4></p>
 
