@@ -18,10 +18,11 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
  <h2><p> 
-   If You, Like Me, Love Music - You'll Want to: 
+   If You, Like Me, Love Music - You'll Want to Work with The Very Best Teacher You Can Find, so that You Will: 
    </p></h2>
    <h4><p>  
    <ul>
+  
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
   
   <li>Get the Right Foundation, Right from the Start,</li>
