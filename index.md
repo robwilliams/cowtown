@@ -14,6 +14,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h3>Certified NLP Practitioner & Coach.</h3></p>
     <p><h3>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h3></p>
     <p><h3>Enhanced DBS (CRB) Cleared for Your Safety.</h3></p>
+    <p><h3>The Guitar Debunker.</h3></p>
     <br />
    
 </div>
