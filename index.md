@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h1>The Guitar Debunker.</h1></p>
+    <p><h2>The Guitar Debunker.</h2></p>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
     
     <p><h3>Certified NLP Practitioner & Coach.</h3></p>
