@@ -22,7 +22,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </div>
  <h2><p> 
    If You, Like Me, Love Music - You'll Want to Work with The Very Best Teacher You Can Find, so that You Can: 
-   </p></h2>
+   </p> </h2>
+   </p> </h2>
    <h4><p>  
    <ul>
   
