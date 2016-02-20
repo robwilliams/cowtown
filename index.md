@@ -6,7 +6,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Direct Dial Now
+    Click to Dial
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
@@ -21,7 +21,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
  <h2><p> 
-   If You, Like Me, Love Music - You'll Want to Work with The Very Best Teacher You Can Find, so that You Can: 
+   If You - Like Me - Love Music, You'll Want to Work with The Very Best Teacher You Can Find, so that You Can: 
    </p> </h2>
    </p> </h2>
    <h4><p>  
@@ -72,14 +72,23 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <h4>
 <p>I'm a bit odd, unusual, and very Unconventional.</p>
+<p>   </p>
+<p>   </p>
+
 <p>In fact, the truth is that I'm sort-of a Mad Scientist - perhaps even a savant - and I'm obsessed with solving the problem of making learning to play guitar easier, more logical and understandable, and above all else - fun! </p>
+<p>   </p>
 <p>It's what I love to do, so I do it as much as I can, and I only do it with people I like. </p>
 <p>And you know what? </p>
+<p>   </p>
 <p>If you do something all day, every day, you get really, really good at it.</p>
-<p>Because You live and breathe what You do, You notice what works, what doesn't work quite so well, what helps and what hinders. </p>
+<p>   </p>
+<p>Because, when You live and breathe what You do, You notice what works, what doesn't work quite so well, what helps and what hinders. </p>
+<p>   </p>
 <p>And then you think about it, you refine it, you purify it and distill it all down to its essence: and You concentrate on just that One Thing that makes everything else follow, naturally...</p>
+<p>   </p>
 <p>You're not just going through the motions, You leave that to Ordinary People.</p>
-
+<p>   </p>
+<p>   </p>
 <p>       </p>
 <p> 
 
