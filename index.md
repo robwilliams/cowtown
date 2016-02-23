@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h2>Guitar Teacher and Debunker of Nonsense.</h2></p>
+    <p><h2>Unconventional Guitar Teacher and Debunker of Nonsense.</h2></p>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
     <p><h3>Certified NLP Practitioner & Coach.</h3></p>
     <p><h3>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h3></p>
