@@ -189,7 +189,8 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
   </p>
   <p>   </p>
   <p>   </p>
-<p>I don't peddle  nonsense, or settle into dogmatically teaching conventional wisdom. I decline to be Cool or use self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius" to the people I help. What I do is give you a unique system that lays bare the way music works on the guitar.
+<p><h3>I don't peddle  nonsense, or settle into dogmatically teaching conventional wisdom.</h3></p>
+<p>I decline to be Cool or use self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius" to the people I help. What I do is give you a unique system that lays bare the way music works on the guitar.
 </p>
 <p>  </p>
 <p>   </p>
