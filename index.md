@@ -10,15 +10,22 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h2>Unconventionally Simple Guitar Teacher & Debunker of Nonsense.</h2></p>
-    <p><h3>BA (Hons), Dip. Mus.</h3></p>
-    <p><h3>Certified NLP Practitioner & Coach.</h3></p>
-    <p><h3>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h3></p>
-    <p><h3>Enhanced DBS (CRB) Cleared for Your Safety.</h3></p>
+    <p><h2>Unconventional Guitar Teacher & Debunker.</h2></p>
+    <p><h4>BA (Hons), Dip. Mus.</h4></p>
+    <p><h4>Certified NLP Practitioner & Coach.</h4></p>
+    <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4</p>
+    <p><h4>Enhanced DBS (CRB) Cleared for Your Safety.</h4></p>
     
     <br />
    
 </div>
+<p>   </p>
+<p>   </p>
+<p>   </p>
+<p>   </p>
+<p>   </p>
+<p>   </p>
+
   <p><h3>The Go-To Guitar Guy</h3></p>
     <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
     <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
