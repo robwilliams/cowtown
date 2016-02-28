@@ -41,7 +41,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p> </h2>
    <h4><p>  
    <ul>
-  
+  <li>Find out why you are slow and clumsy - and how fix it, Forever.</li>
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
   
   <li>Get the Right Foundation, Right from the Start,</li>
