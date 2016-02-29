@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h2>Unconventional Guitar Teacher & Debunker.</h2></p>
+    <p><h2>Unconventional Guitar Teacher.</h2></p>
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     <p><h4>Certified NLP Practitioner & Coach.</h4></p>
     <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4</p>
@@ -26,7 +26,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>   </p>
 
-  <p><h3>The Go-To Guitar Guy</h3></p>
+  <p><h3>The Go-To Guitar Guy for Clarity and a No-Nonsense Style.</h3></p>
     <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
     <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
     <p>and Learn to Play Using My Simple and Proven System.</p></h3>
@@ -36,7 +36,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
  
  <h2><p> 
-   If You - Like Me - Love Music, You'll Want to Work with The Very Best Teacher You Can Find, so that You Can: 
+   If You - Like Me - Love Music, You'll Want to Avoid B.S. and Only Work with The Very Best Teacher You Can Find, so that You Can: 
    </p> </h2>
    </p> </h2>
    <h4><p>  
