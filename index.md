@@ -119,7 +119,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </em>  
     - Tom Boddison.</h4> 
    </p>
-   <p>Tom is an excellent young player, fluent in many styles: it was a pleasure to be part of maximising his abilities and helping him find more pleasure in his playing. I'm proud of you, Tom!</p>
+   <p><h4>Tom is an excellent young player, fluent in many styles: it was a pleasure to be part of maximising his abilities and helping him find more pleasure in his playing. I'm proud of you, Tom!</h4></p>
    <p> </p>
    
 <p>
