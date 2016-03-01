@@ -10,7 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <h1>Neil Cowmeadow</h1>
-    <p><h2>Unconventional Guitar Teacher.</h2></p>
+    <p><h2>The Unconventional Guitar Teacher.</h2></p>
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     <p><h4>Certified NLP Practitioner & Coach.</h4></p>
     <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4</p>
@@ -95,13 +95,13 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>It's what I love to do, so I do it as much as I can, and I only do it with people I like. </p>
 <p>And you know what? </p>
 <p>   </p>
-<p>If you do something all day, every day, you get really, really good at it.</p>
+<p>If you do something all day, every day, you get really, really good at it...</p>
 <p>   </p>
-<p>Because, when You live and breathe what You do, You notice what works, what doesn't work quite so well, what helps and what hinders. </p>
+<p>It's no great surprise, because, when You live and breathe what You do, You notice what works, what doesn't work quite so well, what helps and what hinders. </p>
 <p>   </p>
 <p>And then you think about it, you refine it, you purify it and distill it all down to its essence: and You concentrate on just that One Thing that makes everything else follow, naturally...</p>
 <p>   </p>
-<p>You're not just going through the motions, You leave that to Ordinary People.</p>
+<p>You're not just going through the motions, let's just leave that to Ordinary People.</p>
 <p>   </p>
 <p>   </p>
 <p>       </p>
