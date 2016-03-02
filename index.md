@@ -9,8 +9,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     Click to Dial
   </a>
   <div class="text">
-    <h1>Neil Cowmeadow</h1>
     <p><h2>The Unconventional Guitar Teacher.</h2></p>
+    <h1>Neil Cowmeadow</h1>
+    
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     <p><h4>Certified NLP Practitioner & Coach.</h4></p>
     <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4</p>
