@@ -32,12 +32,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h2><p> </p></h2>
     <h2><p> </p></h2>
     <h2><p> </p></h2>
-    <h3><p>Have You Heard How Hard the Guitar is to Play?</p></h3>
-    
-    <h3><p>Everybody's Heard it - Even Though it is Completely Wrong!</p></h3>
+
     <h3><p>         </p></h3>
-    <h3><p>Find Out the Reality, Today, and Avoid the Errors that Plague Most Players</p></h3>
-   <h3> <p>and Learn to Play Using My Simple and Proven System.</p></h3>
+    <h3><p>Find Out the Reality, and Avoid the Errors that Plague Most Players.</p></h3>
+   <h3> <p>Learn to Play Using My Simple and Proven System.</p></h3>
  
  
  
