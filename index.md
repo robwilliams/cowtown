@@ -81,7 +81,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         Because, whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
         <p>       </p>
         <p>     </p>
-        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the ease, grace and speed that most people only ever dream of.</p>
+        <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the kind of ease, grace and speed that most people can only ever dream of.</h4></p>
             <p>     </p>
                 <p>     </p>
         <p>If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Unconventional Results, get an Unconventional teacher.</p>
@@ -96,7 +96,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>   </p>
 
-<p>In fact, the truth is that I'm sort-of a Mad Scientist - perhaps even a savant - and I'm obsessed with solving the problem of making learning to play guitar easier, more logical and understandable, and above all else - fun! </p>
+<p>In fact, the truth is that I'm sort-of a Mad Scientist, and I'm obsessed with solving the problem of making learning to play guitar easier, more logical and understandable, and above all else - fun! </p>
 <p>   </p>
 <p>It's what I love to do, so I do it as much as I can, and I only do it with people I like. </p>
 <p>And you know what? </p>
@@ -149,7 +149,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Peter James.</h4> 
    </p>
 
-<p>Peter is top bloke and a rapidly-improving rock and pop player, currently studying for his degree in an unrelated subject.</p>
+<p><h3>Peter is a top bloke and a rapidly-improving rock and pop player, currently studying for his degree in an unrelated subject.</h3></p>
 <p>      </p>
 <p> </p>
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
