@@ -155,9 +155,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
 </p>
 <br/>
-
+<h4>
 <p>
-That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p>
+That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p></h4>
 <p>   </p>
 <p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
 <p>   </p>
