@@ -33,8 +33,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h2><p> </p></h2>
     <h2><p> </p></h2>
 
-    <h3><p>         </p></h3>
-    <h3><p>Find Out the Reality, and Avoid the Errors that Plague Most Players.</p></h3>
+    <h3><p>Not Just How to Play Something, But How to Play Everything.</p></h3>
+    <h3><p>Avoid the Errors that Plague Most Players.</p></h3>
    <h3> <p>Learn to Play Using My Simple and Proven System.</p></h3>
  
  
