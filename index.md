@@ -179,7 +179,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 <p>   </p>
 
 <p>   </p>
-<p>   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
+<p>   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of the Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
@@ -272,5 +272,5 @@ Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?re
   <p><h3> </h3></p>
   <p><h4> </h4></p>
 <p><h4>International Product Demonstrator for <a href="http://www.calinemusic.com/">Caline Electronics Effects Pedals.</a></p>
-Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse Frankfurt.</a></h4></p>
+Exhibitor at <a href="http://musik.messefrankfurt.com/frankfurt/en/aussteller/willkommen.html">MusikMesse, Frankfurt.</a></h4></p>
 
