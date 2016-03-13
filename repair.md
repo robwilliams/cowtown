@@ -13,7 +13,7 @@ In fact - unless you have played a professionally set up guitar, you'll never kn
 </p><p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
 </p>
-<p><strong>"Every time I bring you one of my guiutars, you turn it into something special"</strong> - Derek Ridgeway.
+<p><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - Derek Ridgeway.
 </p><p>
 Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. 
 </p><p>
