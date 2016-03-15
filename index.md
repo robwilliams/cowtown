@@ -95,7 +95,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <h4>
 <p>I'm a bit odd, unusual, and very Unconventional.</p>
-<p>   </p>
+<p>You could call me a Non-Conformist...   </p>
 <p>   </p>
 
 <p>In fact, the truth is that I'm sort-of a Mad Scientist, and I'm obsessed with solving the problem of making learning to play guitar easier, more logical and understandable, and above all else - fun! </p>
