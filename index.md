@@ -47,7 +47,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    If You - Like Me - Love Music, You'll Want to...  
    </p> </h2>
    </p> </h2>
-   <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, so that You Can: 
+   <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, and: 
    <ul>
   <li>Find out why you are slow and clumsy - and how fix it, Forever.</li>
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
