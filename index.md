@@ -49,8 +49,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p> </h2>
    <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, and: 
    <ul>
-  <li>Find out why you are slow and clumsy - and how fix it, Forever,</li>
   <li>Stop Doing What Isn't Working, and Start Doing What Does Work,</li>
+  <li>Find out why you are slow and clumsy - and how fix it, Forever,</li>
+  
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
   
   <li>Get the Right Foundation, Right from the Start,</li>
