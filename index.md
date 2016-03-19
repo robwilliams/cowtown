@@ -9,7 +9,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     Click to Dial
   </a>
   <div class="text">
-    <p><h2><font color="green">The <u>Professional</u> Guitar Teacher.</font></h2></p>
+    <p><h2><font color="blue">The <u>Professional</u> Guitar Teacher.</font></h2></p>
     <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
@@ -29,9 +29,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>   </p>
 
-  <p><h3>The Go-To Guitar Guy for Clarity and a No-Nonsense Style.</h3></p>
+  <p><h3>The Go-To Guitar Guy for Clarity and Insight.</h3></p>
     <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
-    <h3><p><u>Change The Way You Play, For Ever.</u></p></h3>
+    <h3><p><u>You Can Change The Way You Play - Forever!</u></p></h3>
     <h2><p> </p></h2>
     <h2><p> </p></h2>
 
@@ -49,7 +49,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p> </h2>
    <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, and: 
    <ul>
-  <li>Find out why you are slow and clumsy - and how fix it, Forever.</li>
+  <li>Find out why you are slow and clumsy - and how fix it, Forever,</li>
+  <li>Stop Doing What Isn't Working, and Start Doing What Does Work,</li>
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
   
   <li>Get the Right Foundation, Right from the Start,</li>
