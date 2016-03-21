@@ -43,8 +43,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
  
  
- <h2><p> 
-   If You - Like Me - Love Music, You'll Want to...  
+ <h2><p> <font color="blue">
+   If You - Like Me - Love Music, You'll Want to...  </font>
    </p> </h2>
    </p> </h2>
    <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, and: 
@@ -88,7 +88,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the kind of ease, grace and speed that most people can only ever dream of.</h4></p>
             <p>     </p>
                 <p>     </p>
-        <p><h2>If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Extraordinary Results, get an Unconventional teacher.</h2></p>
+        <p><h2>If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Extraordinary Results, get an Extraordinary teacher.</h2></p>
         <h2><p>I don't do conventional, and I don't do Ordinary: Do You?</p></h2>
 </h4></p>
 <p><h4>Are You ready to change the way You think about music, Forever?</h4></p>
