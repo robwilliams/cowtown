@@ -23,7 +23,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
 <p>   </p>
-<p>   </p>
+<p><h2>The Art and Science of Guitar Teaching</h2>   </p>
 <p>   </p>
 <p>   </p>
 <p>   </p>
