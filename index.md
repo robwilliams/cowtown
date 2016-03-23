@@ -30,7 +30,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 
   <p><h3>The Go-To Guitar Guy for Clarity and Insight.</h3></p>
-    <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
+    <p><h3>Creator of The Top-Secret Guitar System.</h3></p>
     <h3><p><u>You Can Change The Way You Play - Forever!</u></p></h3>
     <h2><p> </p></h2>
     <h2><p> </p></h2>
