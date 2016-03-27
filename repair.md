@@ -9,7 +9,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 <p><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - Paul Sikory.
 </p>
 <p><strong><h3>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - Rob Hedison of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</h3></a>.</p>
-In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
+<p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
 </p><p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
 </p>
