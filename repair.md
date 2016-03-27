@@ -9,6 +9,9 @@ You know how an engine runs when it is tuned to perfection?</font></h3></p>
 </p>
 <p><strong><h4>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</h4></strong> - Paul Sikory.
 </p>
+<p><font color="blue"><h3>
+Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
+</p>
 <p><strong><h4>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</h4></strong> - Rob Hedison of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></p>
 <p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
 </p><p>
@@ -16,9 +19,8 @@ It's a sad fact that factory guitar setups are usually a mass-production comprom
 </p>
 <p><strong><h4>"Every time I bring you one of my guitars, you turn it into something special"</h4></strong> - Derek Ridgeway.
 </p>
-<p><font color="blue"><h3>
-Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
-</p><p>
+
+<p>
 <h3><font color="blue">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
 <p><strong><h4>"Another transformation - Brilliant!"</h4></strong> - Richard Crossman.</p>
