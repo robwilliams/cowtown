@@ -15,10 +15,11 @@ You know how an engine runs when it is tuned to perfection?</font></h3></p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
 </p>
 <p><strong><h4>"Every time I bring you one of my guitars, you turn it into something special"</h4></strong> - Derek Ridgeway.
-</p><p><font color="blue">
-Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </font>
+</p>
+<p><font color="blue"><h3>
+Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
 </p><p>
-<h3>A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</h3>
+<h3><font color="blue">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
 <p><strong><h4>"Another transformation - Brilliant!"</h4></strong> - Richard Crossman.</p>
 <p>
