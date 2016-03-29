@@ -9,7 +9,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     Click to Dial
   </a>
   <div class="text">
-    <p><h2><font color="blue">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
+    <p><h2><font color="red">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
     <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
