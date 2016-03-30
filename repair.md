@@ -35,5 +35,5 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 </p><p>
 
 <p>
-<h3>Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</h3>
+<h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
