@@ -17,21 +17,21 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 </p><p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
 </p>
-<p><strong><h4>"Every time I bring you one of my guitars, you turn it into something special"</h4></strong> - Derek Ridgeway.
+<p><h4><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - Derek Ridgeway.</h4>
 </p>
 
 <p>
 <h3><font color="blue">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
-<p><strong><h4>"Another transformation - Brilliant!"</h4></strong> - Richard Crossman.</p>
+<p><h4><strong>"Another transformation - Brilliant!"</strong> - Richard Crossman.</h4></p>
 <p>
 Even your old Guitar can be brought back to life and give you years more service for way less than you'd lose by trading it in for another guitar. </p>
-<p><strong><h4>"P.S. The guitar's Brilliant."</h4></strong> - Brian Gardner.
+<p><h4><strong>"P.S. The guitar's Brilliant."</strong> - Brian Gardner.</h4>
 </p>
 <p>
 From small tweaks to the dreaded dropped guitar, the good news is that it probably isn't terminal. Even broken necks can be repaired as good as new without costing you a fortune. 
 Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
-<p><strong><h4>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</h4></strong> - Rob Hedison, guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.
+<p><h4><strong>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</strong> - Rob Hedison, guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.</h4>
 </p><p>
 
 <p>
