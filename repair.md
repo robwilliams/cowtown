@@ -25,7 +25,9 @@ It's a sad fact that factory guitar setups are usually a mass-production comprom
 </p>
 <p><strong><h4>"Another transformation - Brilliant!"</h4></strong> - Richard Crossman.</p>
 <p>
-Even your old Guitar can be brought back to life and give you years more service for way less than you'd lose by trading it in for another guitar. 
+Even your old Guitar can be brought back to life and give you years more service for way less than you'd lose by trading it in for another guitar. </p>
+<p><strong><h4>"P.S. The guitar's Brilliant."</h4></strong> - Brian Gardner.
+</p>
 <p>
 From small tweaks to the dreaded dropped guitar, the good news is that it probably isn't terminal. Even broken necks can be repaired as good as new without costing you a fortune. 
 Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
