@@ -7,7 +7,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 You know how an engine runs when it is tuned to perfection?</font></h3></p>
 <p>Well, guitars are just the same: a little expert attention can seriously improve tone and playability. 
 </p>
-<p><strong><h4>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</h4></strong> - Paul Sikory.
+<p><h4><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - Paul Sikory.</h4>
 </p>
 <p><font color="blue"><h3>
 Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
