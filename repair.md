@@ -12,7 +12,7 @@ You know how an engine runs when it is tuned to perfection?</font></h3></p>
 <p><font color="blue"><h3>
 Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
 </p>
-<p><strong><h4>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</h4></strong> - Rob Hedison of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></p>
+<p><h4><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - Rob Hedison of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h4></p>
 <p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
 </p><p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
