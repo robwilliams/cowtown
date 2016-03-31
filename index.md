@@ -9,8 +9,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     Click to Dial
   </a>
   <div class="text">
-    <p><h2><font color="green">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
-    <h1><font color="green">Neil Cowmeadow</font></h1>
+    <p><h2><font color="blue">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
+    <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     
@@ -23,7 +23,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
 <p>   </p>
-<p><h2><font color="green">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
+<p><h2><font color="blue">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
 <p>   </p>
 <p>   </p>
 <p>   </p>
@@ -43,7 +43,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
  
  
- <h2><p> <font color="green">
+ <h2><p> <font color="blue">
    If You - Like Me - Love Music, You'll Want to...  </font>
    </p> </h2>
    </p> </h2>
@@ -125,7 +125,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    <p>
    <h4>
    <em>
-   <strong><font color="red">"... Neil Cowmeadow Is probably the best teacher there is."</font></strong>
+   <strong><font color="blue">"... Neil Cowmeadow Is probably the best teacher there is."</font></strong>
    </em>  
     - Tom Boddison.</h4> 
    </p>
@@ -148,7 +148,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  <p> </p>
    <h4>
    <em>
-   <strong><font color="red">"... I've learned more in a few sessions with you than I did in the previous 13 years and 8 Grades."</font></strong>
+   <strong><font color="blue">"... I've learned more in a few sessions with you than I did in the previous 13 years and 8 Grades."</font></strong>
    </em>  
     - Peter James.</h4> 
    </p>
@@ -196,7 +196,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
    Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p> </p>
 <p> </p>
-<p><h4><em><strong><font color="red">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
+<p><h4><em><strong><font color="blue">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
 <p>   </p>
 <p>   </p>
@@ -243,7 +243,7 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
 <p> 
 <h4>
    <em>
-   <strong><font color="red">"So cool...Nailed it!...Love It!"</font></strong>
+   <strong><font color="blue">"So cool...Nailed it!...Love It!"</font></strong>
    </em>  
     - Steve Holford</h4> 
 
