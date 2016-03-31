@@ -9,8 +9,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     Click to Dial
   </a>
   <div class="text">
-    <p><h2><font color="red">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
-    <h1><font color="blue">Neil Cowmeadow</font></h1>
+    <p><h2><font color="green">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
+    <h1><font color="green">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     
@@ -23,7 +23,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    
 </div>
 <p>   </p>
-<p><h2><font color="blue">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
+<p><h2><font color="green">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
 <p>   </p>
 <p>   </p>
 <p>   </p>
@@ -43,7 +43,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
  
  
- <h2><p> <font color="blue">
+ <h2><p> <font color="green">
    If You - Like Me - Love Music, You'll Want to...  </font>
    </p> </h2>
    </p> </h2>
