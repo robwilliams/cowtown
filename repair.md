@@ -4,7 +4,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 ---
 
 <p><h3><font color="blue">
-You know how an engine runs when it is tuned to perfection?</font></h3></p>
+You know how an engine runs when it is <u>Tuned to Perfection?</u></font></h3></p>
 <p>Well, guitars are just the same: a little expert attention can seriously improve tone and playability. 
 </p>
 <p><h4><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - Paul Sikory.</h4>
