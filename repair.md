@@ -40,6 +40,6 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <p>
 <h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
-<p><h4><strong>"I bought a new guitar that needed setting up a friend of mine recommend Neil so I went to see him had a lovley coffee I told him about the level I was at in 5 mins he helped me and so now I'm looking forward to my first lesson. Two days later I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great aswell. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
+<p><h4><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great aswell. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
 </p>
 <p><font color="blue"><h3>
