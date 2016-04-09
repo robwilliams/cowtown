@@ -31,9 +31,13 @@ Even your old Guitar can be brought back to life and give you years more service
 <p>
 From small tweaks to the dreaded dropped guitar, the good news is that it probably isn't terminal. Even broken necks can be repaired as good as new without costing you a fortune. 
 Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
+
 <p><h4><strong>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</strong> - <u>Rob Hedison,</u> guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.</h4>
 </p><p>
 
 <p>
 <h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
+<p><h4><strong>"...I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great aswell. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
+</p>
+<p><font color="blue"><h3>
