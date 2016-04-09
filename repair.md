@@ -14,7 +14,9 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 </p>
 <p><h4><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - <u>Rob Hedison</u> of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h4></p>
 <p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
-</p><p>
+</p>
+<p><h4><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.<u></h4></p>
+<p>
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
 </p>
 <p><h4><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h4>
@@ -38,6 +40,6 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <p>
 <h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
-<p><h4><strong>"...I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great aswell. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
+<p><h4><strong>"I bought a new guitar that needed setting up a friend of mine recommend Neil so I went to see him had a lovley coffee I told him about the level I was at in 5 mins he helped me and so now I'm looking forward to my first lesson. Two days later I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great aswell. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
 </p>
 <p><font color="blue"><h3>
