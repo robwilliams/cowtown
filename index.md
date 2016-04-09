@@ -10,6 +10,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   </a>
   <div class="text">
     <p><h2><font color="blue">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
+    <p><h2><font color="red">Special Notice:</font> Landline Contact number is currently Unavailable, due to ongoing issues with EE whilst switching Services. Please use my mobile number (07968 077280) for all contact whilst they attempt to sort out their mess. Thank You.</h2></p>
     <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
