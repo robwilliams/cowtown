@@ -16,9 +16,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
     <p><h2><font color="red">Special Notice:</font> Landline Contact number is currently Unavailable, due to ongoing issues with EE whilst switching Services. Please use my mobile number (07968 077280) for all contact whilst they attempt to sort out their mess. Thank You.</h2></p>
     <p><h2>       </h2></p>
-    <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4></p>
     
-    <p><h4>Fully-Accredited Registry of Guitar Tutors - <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
+    
+    <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Tutor - <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
     
     
     
@@ -274,7 +274,7 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
 Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
-<p>Fully-Accredited Registry of Guitar Tutors <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
+<p><h4>Fully-Accredited Registry of Guitar Tutors <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
 <p> <h2 style="text-decoration:underline;">
     </strong></h2>
     <p><h3>The Go-To Guitar Guy</h3></p>
