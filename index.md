@@ -18,7 +18,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h2>       </h2></p>
     <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Teacher.</h4></p>
     
-    <p>Fully-Accredited Registry of Guitar Tutors - <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
+    <p><h4>Fully-Accredited Registry of Guitar Tutors - <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
     
     
     
