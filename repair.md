@@ -6,7 +6,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 
 
-<p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, though email may be slow  whilst EE try to figure out how they've loused it up. </p>
+<p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, though email may be slow  whilst EE move into <strong>day nine</strong> of trying to figure out how they've loused it up. </p>
     <p>Thank You.</h3></p>
     <p><h2>   </h2>    </p>
 
