@@ -14,7 +14,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
-    <p><h3><font color="red">Special Notice:</font> Landline Contact number is now working again, though email may be slow  whilst EE try to figure out how they've loused it up. </p>
+    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, though email may be slow  whilst EE try to figure out how they've loused it up. </p>
     <p>Thank You.</h3></p>
     <p><h2>       </h2></p>
     
