@@ -15,7 +15,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 <p><h3>Now, you and I know how it feels to deal with something that fails to do what it promised to - just like my woeful broadband provider! And you also know how sweetly an engine runs when it is <font color="blue"><u>Tuned to Perfection,</u></font> don't you?</h3></p>
 <p>Well, it turns out that guitars are like that, too. With a little expert attention you can get seriously improved playability, intonation and smoothness - bringing your music to life with more control, ease and vastly improved tone.</p>
-<p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on FaceBook (they're all 5-Stars!).
+<p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">FaceBook</a> (they're all 5-Stars!).
 </p>
 <p><h4><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - <u>Paul Sikory.</u></h4>
 </p>
