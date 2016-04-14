@@ -13,9 +13,9 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
     <p>Thank You.</h3></p>
     <p><h2>   </h2>    </p>
 
-<p><h3><font color="blue">
-You know how an engine runs when it is <u>Tuned to Perfection?</u></font></h3></p>
-<p>Well, guitars are just the same: a little expert attention can seriously improve tone and playability. 
+<p><h3><font color="blue">Now, you and I know how it feels to deal with something that fails to do what it promised to - just like my woeful broadband provider. But you also know how an engine runs when it is <u>Tuned to Perfection, don't you?</u></font></h3></p>
+<p>Well, guitars are like that, too: a little expert attention can seriously improve playability, bringing your music to life with ease and vastly improved tone.</p>
+<p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on FaceBook (they're all 5-Stars!).
 </p>
 <p><h4><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - <u>Paul Sikory.</u></h4>
 </p>
