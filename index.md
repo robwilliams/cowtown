@@ -14,7 +14,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h1><font color="blue">Neil Cowmeadow</font></h1>
     
     <p><h4>BA (Hons), Dip. Mus.</h4></p>
-    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, after 9 days! However,  email may be slow whilst EE try to figure out how they've messed it up. It might be fixed on  <u>day sixteen</u>...maybe! </p>
+    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, after 9 days of waiting! However,  email may be slow whilst EE try to figure out how they've messed it up. It might be fixed  (maybe) sometime next week, making EE's best guess for the same-day transfer from BT into <u>three weeks.</u>...maybe! </p>
 
 
 
