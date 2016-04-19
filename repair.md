@@ -8,7 +8,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
    <p><h1>Neil Cowmeadow - The Guitar Expert.</h1></p>
    
     
-<p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, after 9 days of waiting! However,  email may be slow whilst EE try to figure out how they've messed it up. It might be fixed  (maybe) sometime next week, making EE's best guess for the same-day transfer from BT into <u>three weeks.</u>...maybe! </p>
+<p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still waiting for EE to fix the Broadband, so email response will be slow....</p>
     <p>Thank You.</h3></p>
     <p><h2>   </h2>    </p>
 
