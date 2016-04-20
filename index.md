@@ -11,31 +11,30 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
   <div class="text">
     <p><h2><font color="blue">The <u>Definitive</u> Guitar Teacher.</font></h2></p>
     
-    <h1><font color="blue">Neil Cowmeadow</font></h1>
+    <h1>Neil Cowmeadow</h1>
+    <p><h2><font color="blue">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
     
-    <p><h4>BA (Hons), Dip. Mus.</h4></p>
-    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still waiting for EE to fix the Broadband, so email response will be slow....</p>
-   
-    <p>Thank You.</h3></p>
+    
    
     <p><h2>       </h2></p>
     
     
-    <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Tutor - <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
+    <p><h4>Fully-Accredited RGT (Registry of Guitar Tutors) Tutor. <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
     
-    
-    
-    
-    
-    <p><h4>Enhanced DBS (CRB) Cleared for Your Safety.</h4></p>
     <p><h4>Certified Practitioner of Neuro-Linguistic Programming.</h4></p>
+    <p><h4>Enhanced DBS (CRB) Cleared for Your Safety.</h4></p>
     <p><h4>Certified Life Coach.</h4></p>
     <p><h4></h4></p>
     <br />
    
 </div>
+
+<p><h4>BA (Hons), Dip. Mus.</h4></p>
+    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still waiting for EE to fix the Broadband, so email response will be slow....</p>
+   
+    <p>Thank You.</h3></p>
 <p>   </p>
-<p><h2><font color="blue">The Art and Science of <u>Professional</u> Guitar Teaching</font></h2>   </p>
+
 <p>   </p>
 <p>   </p>
 <p>   </p>
