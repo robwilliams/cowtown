@@ -49,8 +49,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h2><p>    </p></h2>
     <h2><p> </p></h2>
 
-    <h3><p>Why Learn to Play Something, When You can Learn to Play <u>Everything.</u></p></h3>
-    <h3><p>Learn To Play Properly and Easily and You'll Avoid the Mistakes that Plague Almost Every Guitarist,</p></h3>
+    <h3><p>Why Learn to Play Something, When You can Learn to Play <u>Everything</u>?</p></h3>
+    <h3><p>Learn To Play Properly and Easily and You'll Avoid the Mistakes that Plague Almost Every Guitarist.</p></h3>
    <h3> <p>Learn to Play Using My Simple and Proven System.</p></h3>
  
  
