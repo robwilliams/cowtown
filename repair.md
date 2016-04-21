@@ -3,9 +3,10 @@ layout: default
 title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar repair, guitar service, bass repair, bass guitar repair, bass tech, guitar setup, guitar set up, guitar workshop,Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers, Bridgnorth Guitar Lessons, Telford Guitar Lessons, Broseley Guitar Lessons, Guitar Lessons in Telford, Telford Music Lessons, Shropshire Guitar Lessons, Shropshire Guitar Teachers, Individual Guitar Lesson, Children's Guitar Lesson, Guitar Lessons, Bass Guitar Teacher, bass guitar lesson, Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, Technician, Telford, Guitar Repair, Guitar Expert, How to Play Guitar, How to Play Bass, DBS, CRB checked, Broseley, Bridgnorth, Much Wenlock, How to Compose, Composition, Technique, Easy Guitar, Easy Guitar Lessons, easy strings, intermediate Guitar Lessons, advanced Guitar Lessons, expert Guitar Lessons,For Beginners, For Intermediates, For Experts, easy strings, song writing, arthritis, pain, wrist, fingers, sore, guitar pain, guitar rehab, guitar rehabilitation, free guitar lessons, guitar technique, guitar guide, guitar coach.Guitar Teacher, Telford Guitar Teacher, Bridgnorth Guitar Lessons, Telford Guitar Lessons, Broseley Guitar Lessons, Guitar Lessons in Telford, Telford Music Lessons, Shropshire Guitar Lessons, Shropshire Guitar Teacher, Individual Guitar Lessons, Children's Guitar Lessons, Guitar Lessons, Bass Guitar Lessons, Guitar Teacher, Bass Lessons, Instrument Repair, guitar repair, guitar tech, guitar setup, guitar set-up, guitar set up, Bass Guitar set-up, bass  guitar setup, bass guitar set up.
 ---
 
-<p><h2><font color="blue"><u>The Expert Guitar Technician.</u></font> </h2></p>
+
 
    <p><h1>Neil Cowmeadow - The Guitar Expert.</h1></p>
+   <p><h2><font color="blue"><u>The Expert Guitar Technician.</u></font> </h2></p>
    
     
 <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still waiting for EE to fix the Broadband, so email response will be slow....</p>
