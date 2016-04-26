@@ -31,7 +31,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </div>
 
 
-    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still waiting for EE to fix the Broadband, so email response will be slow....</p>
+    <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but (amazingly) I'm still waiting for EE to fix the Broadband after three weeks, so email response will be slow....</p>
    
     <p>Thank You.</h3></p>
 <p>   </p>
