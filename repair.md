@@ -6,7 +6,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 
    <p><h1>Neil Cowmeadow.</h1></p>
-   <p><h2><font color="green"><u>The Expert Guitar Technician.</u></font> </h2></p>
+   <p><h2><font color="purple"><u>The Expert Guitar Technician.</u></font> </h2></p>
    
     
 <p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still (yes, still!) waiting for EE to fix the Broadband after three weeks, so email response will be slow....</p>
