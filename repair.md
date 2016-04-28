@@ -9,7 +9,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
    <p><h2><font color="purple"><u>The Expert Guitar Technician.</u></font> </h2></p>
    
     
-<p><h3><font color="red">Special Notice:</font> Landline Contact number <u>is now working</u> again, but I'm still (yes, still!) waiting for EE to fix the Broadband after three weeks, so email response will be slow....</p>
+ <p><h3><font color="blue">Special Notice:</font> We're now into week 4 without internet, and still waiting for the clowns at BT and EE (both part of the same corporation) to stop finger-pointing and fix it,  so email response may be slower than usual.</p>
     <p>Thank You.</h3></p>
     <p><h2>   </h2>    </p>
 
