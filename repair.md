@@ -14,7 +14,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
     <p><h2>   </h2>    </p>
 
 
-<p>In life, it really matters that things work properly - like my internet connection, for instance!</p>
+<h5><p>In life, it really matters that things work properly - like my internet connection, for instance!</p></h5>
 <p>You already know how a car splutters and judders when there's something wrong with the engine, don't you?</p>
 <p>Well, it turns out that guitars are like that, too. With a little expert attention you can get seriously improved playability, intonation and smoothness - bringing your music to life with more control, ease and vastly improved tone.</p>
 <p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">FaceBook</a> (they're all 5-Stars!).
