@@ -41,10 +41,10 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>   </p>
 
-  <font color="blue"><p><h3>The Original Source for Simplicity, Clarity and Insight.</h3></p>
+ <p><h3>The Original Source for Simplicity, Clarity and Insight.</h3></p>
     <p><h3>Creator of The Top-Secret Guitar System.</h3></p>
-    <h3><p>Suppose You Discovered that Everything You Thought You Knew was Wrong?</p></h3>
-     <h3><p>I did - and That Simple Truth Changed The Way I Played - Forever!</p></h3>
+     <font color="blue"><h3><p>Suppose You Discovered that Everything You Thought You Knew was Wrong?</p></h3>
+     <h3><p>It Will Change The Way You Play - Forever!</p></h3>
      </font>
     <h2><p>    </p></h2>
     <h2><p> </p></h2>
