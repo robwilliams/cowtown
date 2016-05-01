@@ -9,7 +9,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
    <p><h2><font color="purple"><u>The Expert Guitar Technician.</u></font> </h2></p>
    
     
- <p><h4><font color="blue">Special Notice:</font> We're now into week 4 without internet, and still waiting for the clowns at BT and EE to stop finger-pointing and fix it,  so email response may be slower than usual.</p>
+ <p><h4><u><font color="blue">Special Notice:</font> We're now into week 4 without internet, and still waiting for the clowns at BT and EE to stop finger-pointing and fix it,  so email response may be slower than usual.</u></p>
     <p>Thank You.</h4></p>
     <p><h2>   </h2>    </p>
 
