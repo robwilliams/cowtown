@@ -31,7 +31,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </div>
 
 
-    <p><h4><u><font color="blue">Special Notice:</font> We're now into week 4 without internet, and still waiting for the clowns at BT and EE to stop finger-pointing and fix it,  so email response may be slower than usual.</u></p>
+    <p><h4><u><font color="blue">Special Notice:</font> We're now into out 5th week without internet, and still waiting for the clowns at BT and EE to stop finger-pointing and fix it,  so email response may be slower than usual.</u></p>
    
     <p>Thank You.</h4></p>
 <p>   </p>
