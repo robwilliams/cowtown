@@ -10,7 +10,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
    
     
  
-    <p><h2>   </h2>    </p>
+
 
 
 <h4><p>In life, it really matters that things work properly - imagine if your internet connection stopped working, or your phone, car or your guitar...!</p></h4>
