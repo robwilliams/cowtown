@@ -9,12 +9,11 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
    <p><h2><font color="blue"><u>The Expert Guitar Technician.</u></font> </h2></p>
    
     
-  <p><h4><u><font color="blue">Special Notice:</font></u> We're now into the 5th week without internet, and still waiting for the clowns at BT and EE to stop finger-pointing and fix it,  so email response may be slower than usual.</p>
-    <p>Thank You.</h4></p>
+ 
     <p><h2>   </h2>    </p>
 
 
-<h4><p>In life, it really matters that things work properly - like my internet connection, for instance...!</p></h4>
+<h4><p>In life, it really matters that things work properly - imagine if your internet connection stopped working, or your phone, car or your guitar...!</p></h4>
 
 <p>You already know how a car splutters and judders when there's something wrong with the engine, don't you?</p>
 <p>Well, it turns out that guitars are like that, too. </p>
