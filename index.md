@@ -43,15 +43,17 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
  
     <p><h3>Creator of The Top-Secret Guitar System.</h3></p>
-     <font color="blue"><h3><p>Suppose You Discovered that Everything You Thought You Knew was Wrong?</p></h3>
-     <h3><p>It Will Change The Way You Play - Forever!</p></h3>
+    <br>
+     <font color="blue"><h3><p>When you Finally Discover that Everything You'd been Told About Music was Wrong, It Changes The Way You Play - Forever!</p></h3>
      </font>
+     <br>
     <h2><p>    </p></h2>
     <h2><p> </p></h2>
 
-    <h3><p>Why Learn to Play Something, When You can Learn to Play <u>Everything</u>?</p></h3>
+    <h3><p>Why Learn to Play Something, When You can Learn to Play <u>Everything</u> by Using a Real-World Approach and a Simple, Proven Syatem?</p></h3>
+    <br>
     <h3><p>Learn To Play Properly and Easily and You'll Avoid the Mistakes that Plague Almost Every Guitarist.</p></h3>
-   <h3> <p>Learn to Play Using My Simple and Proven System.</p></h3>
+   
  
  
  
