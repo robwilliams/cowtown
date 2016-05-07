@@ -63,7 +63,7 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <br>
 <p><h4><strong>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</strong> - <u>Rob Hedison,</u> guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.</h4>
 </p>
-<br><p>
+<br>
 
 <p>
 <h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
