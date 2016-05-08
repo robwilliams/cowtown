@@ -27,7 +27,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 <br>
 
-<p><font color="blue"><h3>
+<p><font color="green"><h3>
 Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
 </p>
 <br>
@@ -39,7 +39,7 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 <p><h4><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.</u></h4></p>
 <br>
 <p>
-It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. 
+<h3><font color="blue">It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </font></h3>
 </p>
 <br>
 <p><h4><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h4>
@@ -66,7 +66,7 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <br>
 
 <p>
-<h3><font color="blue">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
+<h3><font color="green">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
 <br>
 <p><h4><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great as well. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
