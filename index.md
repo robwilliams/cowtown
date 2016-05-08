@@ -13,7 +13,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
-    <p><h2><font color="blue"><u>The Art and Science of Guitar Teaching</u></font></h2>   </p>
+    <p><h2><font color="green"><u>The Art and Science of Guitar Teaching</u></font></h2>   </p>
     
     
    
