@@ -39,14 +39,14 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 <p><h4><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.</u></h4></p>
 <br>
 <p>
-<h3><font color="blue">It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </font></h3>
+<h3><font color="green">It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </font></h3>
 </p>
 <br>
 <p><h4><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h4>
 </p>
 <br>
 <p>
-<h3><font color="blue">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
+<h3><font color="green">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
 <br>
 <p><h4><strong>"Another transformation - Brilliant!"</strong> - <u>Richard Crossman.</u></h4></p>
