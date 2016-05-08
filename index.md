@@ -172,7 +172,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p><h3>Peter is a top bloke and a rapidly-improving rock and pop player, currently studying for his degree in an unrelated subject.</h3></p>
 <p>      </p>
 <p> </p>
-<p><h4><strong><em> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</em></strong></h4>
+<br>
+<p><h3><strong><em><font color="blue"> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</font></em></strong></h3>
 </p>
 <br/>
 <h4>
