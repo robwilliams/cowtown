@@ -173,7 +173,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>      </p>
 <p> </p>
 <br>
-<p><h3><strong><em><font color="blue"> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</font></em></strong></h3>
+<p><h3><strong><em><font color="green"> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</font></em></strong></h3>
 </p>
 <br/>
 <h4>
