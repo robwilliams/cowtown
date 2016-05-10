@@ -104,17 +104,19 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the kind of ease, grace and speed that most people can only ever dream of.</h4></p>
             <p>     </p>
                 <p>     </p>
+                <br>
         <p><h2><font color="green">If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Extraordinary Results, get an Extraordinary teacher.</font></h2></p>
         <br>
         
         <h2><p><font color="green">I don't do conventional, and I don't do Ordinary: Do You?</font></p></h2>
 </h4></p>
+<br>
 <p><h4>Are You ready to change the way You think about music, Forever?</h4></p>
 <p>   </p>
 
 
 <h4>
-<p>I'm a bit odd, unusual, and very Unconventional.</p>
+<p>I'm a bit odd, unusual, Unconventional.</p>
 <p>You could call me a Non-Conformist...   </p>
 <p>   </p>
 
@@ -177,7 +179,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <br>
 <p><h3><strong><em><font color="green"> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</font></em></strong></h3>
 </p>
-<br/>
+<br>
 <h4>
 <p>
 That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p></h4>
@@ -195,7 +197,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 </p>
 <p>   </p>
 <p>    </p>
-<p>That lie is like an ancient curse laid upon us by a malevolent sorceror, and I've been setting players free from that curse ever since I had a moment of clarity and insight that set me free from the curse. </p>
+<p>That lie is like an ancient curse laid upon us by a malevolent sorceror, and I've been setting players free from that curse ever since I had that moment of clarity and insight that set me free from the curse. </p>
 <p>   </p>
 <p>   </p>
 <p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
@@ -212,7 +214,8 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 
 <p>   </p>
 <p>   
-   Whilst studying for my Music Diploma I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
+   Out of my own frustration I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. </p>
+   <p>I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
 <p> </p>
 <p> </p>
 <p><h4><em><strong><font color="blue">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
