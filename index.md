@@ -20,7 +20,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h2>       </h2></p>
     
     
-    <p><h3>Fully-Accredited <a href="http://www.rgt.org/index.php">RGT</a>
+    <p><h3>Fully-Accredited <font color="green"><u><a href="http://www.rgt.org/index.php">RGT</a></u></font>
     (Registry of Guitar Tutors) Tutor. </h3></p>
     <p><h4>Certified Practitioner of Neuro-Linguistic Programming.</h4></p>
     <p><h4>Enhanced DBS (CRB) Cleared for Your Safety.</h4></p>
