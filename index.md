@@ -13,6 +13,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
+    <br>
+    
     <p><h2><font color="green"><u>The Art and Science of Guitar Teaching</u></font></h2>   </p>
     
     
@@ -25,6 +27,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <p><h4>Certified Practitioner of Neuro-Linguistic Programming.</h4></p>
     <p><h4>Enhanced DBS (CRB) Cleared for Your Safety.</h4></p>
     <p><h4>Certified Life Coach.</h4></p>
+    <br>
     
     <p><h4></h4></p>
     <p><h3><u>Originality, Simplicity, Clarity, Insight.</u></h3></p>
