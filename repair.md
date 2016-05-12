@@ -14,12 +14,15 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
  
 <br>
 
-
+<p><h3><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - <u>Rob Hedison</u> of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h3></p>
+<br>
 
 <h4><p>In life, it really matters that things work properly - imagine if your internet connection stopped working, or your phone, car or your guitar...!</p></h4>
 
 <p>You already know how a car splutters and judders when there's something wrong with the engine, don't you?</p>
 <p>Well, it turns out that guitars are like that, too. </p>
+<br>
+
 <p>With a little expert attention you can get seriously improved playability, intonation and smoothness - bringing your music to life with more control, ease and vastly improved tone.</p>
 <br>
 <p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">FaceBook</a> (they're all 5-Stars!).
@@ -33,8 +36,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 <p><font color="green"><h3>
 Proper setting-up is the most cost-effective way to make your guitar play, sound, and feel like a much more expensive instrument. </h3></font>
 </p>
-<br>
-<p><h3><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - <u>Rob Hedison</u> of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h3></p>
+
 <br>
 <p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
 </p>
