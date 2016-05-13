@@ -16,6 +16,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <br>
     
     <p><h2><font color="green"><u>The Art and Science of Guitar Teaching</u></font></h2>   </p>
+    <br>
+     <p><h3><u><font color="green">Originality, Simplicity, Clarity, Insight.</font></u></h3></p>
     
     
    
@@ -30,7 +32,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <br>
     
     <p><h4></h4></p>
-    <p><h3><u>Originality, Simplicity, Clarity, Insight.</u></h3></p>
+   
     <br />
    
 </div>
