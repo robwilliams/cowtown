@@ -69,30 +69,31 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p> </h2>
    </p> </h2>
    <h4><p>...Avoid B.S. and Only Work with The Very Best Teacher You Can Find, and: 
-   <ul>
+   <ul><br>
   <li>Stop Doing What Isn't Working, and Start Doing What Does Work,</li>
+  <br>
   <li>Find out why you are slow and clumsy - and how fix it, Forever,</li>
-  
+  <br>
   <li>Transform Your Stumbling-Blocks into Stepping-Stones,</li>
-  
+  <br>
   <li>Get the Right Foundation, Right from the Start,</li>
-  <li>Have a Memorable, Fun Learning Experience,</li> 
-  <li>Avoid "Monkey-See, Monkey-Do" Teachers,</li>
-  <li>Play Better, Faster, and in Less Time,</li>
-  
+  <br><li>Have a Memorable, Fun Learning Experience,</li> 
+  <br><li>Avoid "Monkey-See, Monkey-Do" Teachers,</li>
+  <br><li>Play Better, Faster, and in Less Time,</li>
+  <br>
   <li>Get Unconventionally Good Results,</li>
-  <li>Play with Total Ease and Comfort,</li>
-  <li>Play Any Song, in Any Key, Fast,</li>
+  <br><li>Play with Total Ease and Comfort,</li>
+  <br><li>Play Any Song, in Any Key, Fast,</li>
   
-  <li>Understand and Learn Faster,</li> 
-  <li>Take Control - Right Now,</li>
-  <li>Unleash Your Creativity,</li>
-  <li>Get the Help You Need,</li>
-  <li>Play Without Limits,</li>
-  <li>Master Every Style,</li>
-  <li>Play Without Pain,</li>
-  <li>Crack the Code,</li>
-  <li>Have Fun!</li>
+  <br><li>Understand and Learn Faster,</li> 
+  <br><li>Take Control - Right Now,</li>
+  <br><li>Unleash Your Creativity,</li>
+  <br><li>Get the Help You Need,</li>
+  <br><li>Play Without Limits,</li>
+  <br><li>Master Every Style,</li>
+  <br><li>Play Without Pain,</li>
+  <br><li>Crack the Code,</li>
+  <br><li>Have Fun!</li>
   
    
    
