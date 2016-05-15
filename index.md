@@ -49,7 +49,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
     <p><h3>Creator of The Top-Secret Guitar System.</h3></p>
     <br>
-     <font color="green"><h3><p>When you Finally Discover that Everything You'd been Told About Music was Wrong, It Changes The Way You Play - <u>Forever!</u></p></h3>
+     <font color="blue"><h3><p>When you Finally Discover that Everything You'd been Told About Music was Wrong, It Changes The Way You Play - <u>Forever!</u></p></h3>
      </font>
      <br>
     <h2><p>    </p></h2>
