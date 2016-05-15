@@ -47,26 +47,26 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 <h3><font color="green">It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </font></h3>
 </p>
 <br>
-<p><h3><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h3>
+<p><h2><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h2>
 </p>
 <br>
 <p>
 <h3><font color="green">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
 <br>
-<p><h3><strong>"Another transformation - Brilliant!"</strong> - <u>Richard Crossman.</u></h3></p>
+<p><h2><strong>"Another transformation - Brilliant!"</strong> - <u>Richard Crossman.</u></h2></p>
 <br>
 <p>
 Even your old Guitar can be brought back to life and give you years more service for way less than you'd lose by trading it in for another guitar. </p>
 <br>
-<p><h3><strong>"P.S. The guitar's Brilliant."</strong> - <u>Brian Gardner.</u></h3>
+<p><h2><strong>"P.S. The guitar's Brilliant."</strong> - <u>Brian Gardner.</u></h2>
 </p>
 <br>
 <p>
 From small tweaks to the dreaded dropped guitar, the good news is that it probably isn't terminal. Even broken necks can be repaired as good as new without costing you a fortune. 
 Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <br>
-<p><h3><strong>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</strong> - <u>Rob Hedison,</u> guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.</h3>
+<p><h2><strong>"The Les Paul is very well..Clearly, when you set a guitar up, it stays set up. Many Thanks...Best setup I've ever had - and I've had a fair few!"</strong> - <u>Rob Hedison,</u> guitarist with <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a>.</h2>
 </p>
 <br>
 
@@ -74,6 +74,6 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <h3><font color="green">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h3>
 </p>
 <br>
-<p><h3><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great as well. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h3>
+<p><h2><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great as well. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h2>
 </p>
 <p><font color="blue"><h3>
