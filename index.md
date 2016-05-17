@@ -251,7 +251,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. Now <strong>that's</strong> what I call cool.
 </p>
-<br><p><h3>Childrens' Author and Businesswoman, Paulette Agnew talks about developing her writing and creativity with me:</h3></p>
+<br><p><h3>Childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talks about developing her writing and creativity with me:</h3></p>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w" frameborder="0" allowfullscreen></iframe>
 <p>   </p>
