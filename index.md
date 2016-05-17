@@ -253,7 +253,9 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 </p>
 <br><p><h3>Childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talks about developing her writing and creativity with me:</h3></p>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w?rel=0"frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 <p>   </p>
 <br>
 
