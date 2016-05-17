@@ -14,7 +14,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     <h1>Neil Cowmeadow</h1>
     <p><h3>BA (Hons), Dip. Mus.</h3></p>
     <br>
-    
+     
     <p><h2><u>The Art and Science of Guitar Teaching</u></h2>   </p>
     <br>
      <p><h2><u><font color="green">Originality, Simplicity, Clarity, Insight.</font></u></h2></p>
@@ -253,7 +253,7 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 </p>
 <br><p><h3>Childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talks about developing her writing and creativity with me:</h3></p>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w?rel=0" frameborder="0" allowfullscreen></iframe>
 <p>   </p>
 <br>
 
