@@ -30,6 +30,10 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 <br>
 <p><h3><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - <u>Paul Sikory.</u></h3>
 </p>
+<br>
+<p><h3>Inspirational Author, Trainer and Coach Jason Jackman talks about rescuing his charanga after the local music shop messed it up.</h3></p>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oX0ocL86514" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
