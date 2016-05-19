@@ -250,8 +250,9 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 <p>   </p>
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. Now <strong>that's</strong> what I call cool.
-</p>
-<br><p><h3>Childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talks about developing her writing and creativity with me:</h3></p>
+</p>When you have multiple skills and a curious mind, you get to do interesting things with interesting people. In fact - there are no limits other than the ones you choose to accept for yourself. 
+
+<br><p><h3>Here's childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talking about working with me to develop her creativity and turbocharge her writing:</h3></p>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8bg3QPK0w?rel=0" frameborder="0" allowfullscreen></iframe>
 
