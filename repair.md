@@ -42,7 +42,8 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 </p>
 
 <br>
-<p>In fact - unless you have played a professionally set up guitar, you'll never know how easy to play a guitar can really be.
+<p>In fact - until you play a professionally set up guitar, you'll never know how easy it really is to play guitar.</p>
+<p>Isn't it time you found out the difference that makes <i>all</i> the difference?
 </p>
 <br>
 <p><h3><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.</u></h3></p>
