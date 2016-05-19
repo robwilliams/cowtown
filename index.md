@@ -117,12 +117,12 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
         <h2><p><font color="green">I don't do conventional, and I don't do Ordinary: Do You?</font></p></h2>
 </h4></p>
 <br>
-<p><h4>Are You ready to change the way You think about music, Forever?</h4></p>
+<p><h4>Are You ready to change the way You think about music - forever?</h4></p>
 <p>   </p>
 
 
 <h4>
-<p>I'm a bit odd, unusual, Unconventional.</p>
+<p>You see, I'm a bit odd - unusual, Unconventional.</p>
 <p>You could call me a Non-Conformist...   </p>
 <p>   </p>
 
@@ -137,7 +137,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>And then you think about it, you refine it, you purify it and distill it all down to its essence: and You concentrate on just that One Thing that makes everything else follow, naturally...</p>
 <p>   </p>
-<p>You're not just going through the motions, let's just leave that to Ordinary People.</p>
+<p>You're not just going through the motions, let's just leave that to ordinary people.</p>
 <p>   </p>
 <p>   </p>
 <p>       </p>
@@ -155,7 +155,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </em>  
     - Tom Boddison.</h4> 
    </p>
-   <p><h4>Tom is an excellent young player, fluent in a range of styles. It was a pleasure to move him up to a far higher level than when we began working together, releasing him from being stuck, maximising his abilities and helping him find more pleasure in his playing by changing his relationship with the instrument. I'm proud of you, Tom!</h4></p>
+   <p><h4>It was a pleasure to move Tom up to a far higher level than when we began working together, releasing him from being stuck, maximising his abilities and helping him find more pleasure in his playing by changing his relationship with the instrument. I'm proud of you, Tom!</h4></p>
    <p> </p>
    
 <p>
