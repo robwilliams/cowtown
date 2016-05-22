@@ -296,7 +296,7 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
 
 <p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
 </p><h4>
-Find me on FaceBook and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
+Find me on <a href= "https://www.facebook.com/NeilCowmeadowGuitar?ref=hl"> FaceBook </a> and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
 <p><h4>Fully-Accredited Registry of Guitar Tutors <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
