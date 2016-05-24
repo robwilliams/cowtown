@@ -5,10 +5,10 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 
 
-   <p><h1><font color="blue"><u>Neil Cowmeadow.</u></font></h1></p>
+   <p><h1><font color="green"><u>Neil Cowmeadow.</u></font></h1></p>
    
    
-   <p><h2><u>The Expert Guitar Technician.</u>  </h2></p>
+   <p><h2><font color="green"><u>The Expert Guitar Technician.</u></font>  </h2></p>
    
     
  
