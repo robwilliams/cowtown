@@ -119,7 +119,17 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <br>
 <p><h4>Are You ready to change the way You think about music - forever?</h4></p>
 <p>   </p>
-
+<br>
+<p><h3>Ed Denholm of Kiss the Thief compares Neil to his previous guitar teachers:</h3></p>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qcNc1ECk8po?rel=0" frameborder="0" allowfullscreen></iframe>
+   <p>
+   <h4>
+   <em>
+   <strong><font color="blue">"I learnt more... in six or seven months than with all the other guys...Seriously recommended."</font></strong>
+   </em>  
+    - Ed Denholm.</h4> 
+   </p>
 
 <h4>
 <p>You see, I'm a bit odd - unusual, Unconventional.</p>
