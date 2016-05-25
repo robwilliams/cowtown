@@ -121,6 +121,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <br>
 <p><h3>Ed Denholm of Kiss the Thief compares Neil to his previous guitar teachers:</h3></p>
+
 <p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=qcNc1ECk8po?rel=0" frameborder="0" allowfullscreen></iframe>
    <p>
