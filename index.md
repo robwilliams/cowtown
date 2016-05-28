@@ -6,18 +6,18 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Click to Dial
+    Call
   </a>
   <div class="text">
     
     <font color="green">
-    <h1>Neil Cowmeadow</h1>
-    <p><h3>BA (Hons), Dip. Mus.</h3></p>
+    <h2>Neil Cowmeadow</h2>
+    <p><h3>BA (Hons), Dip. Mus.</h3></p></font>
     <br>
      
-    <p><h2><u>The Art and Science of Guitar Teaching</u></h2>   </p></font>
+    <p><h3><u>The Art and Science of Guitar Teaching</u></h3>   </p>
     <br>
-     <p><h2><u><font color="green">Originality, Simplicity, Clarity, Insight.</font></u></h2></p>
+     <p><h3><u><font color="green">Originality, Simplicity, Clarity, Insight.</font></u></h3></p>
     
     
    
@@ -49,7 +49,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
  
     <p><h3>Creator of The Top-Secret Guitar System.</h3></p>
     <br>
-     <font color="green"><h3><p>When you Finally Discover that Everything You'd been Told About Music was Wrong, It Changes The Way You Play - <u><i>Forever!</i></u></p></h3>
+     <font color="green"><h2><p>When you Finally Discover that Everything You'd been Told About Music was Wrong, It Changes The Way You Play - <u><i>Forever!</i></u></p></h2>
      </font>
      <br>
     <h2><p>    </p></h2>
@@ -308,7 +308,7 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
 <p><h4>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.</h4></p>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
-    Click Here to Call Now
+  Call Now
   </a>
 
 <p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
