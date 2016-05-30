@@ -137,6 +137,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </em>  
     - Ed Denholm.</h4> 
    </p>
+   <br>
 
 <h4>
 <p>You see, I'm a bit odd - unusual, Unconventional.</p>
