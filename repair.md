@@ -5,7 +5,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 
 
 
-   <p><h1><font color="green"><u>Neil Cowmeadow.</u></font></h1></p>
+   <p><h2><font color="green"><u>Neil Cowmeadow.</u></font></h2></p>
    
    
    <p><h2><font color="green"><u>The Expert Guitar Technician.</u></font>  </h2></p>
@@ -14,7 +14,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
  
 <br>
 
-<p><h3><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - <u>Rob Hedison</u> of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h3></p>
+<p><h4><strong>"This guy did a better setup on my Les Paul than the Gibson Custom Shop! Highly recommended, excellent aftercare too."</strong> - <u>Rob Hedison</u> of <a href="http://www.steel-monkey.com/index.html">Steel Monkey.</a></h4></p>
 <br>
 
 <h4><p>In life, it really matters that things work properly - imagine if your internet connection stopped working, or your phone, car or your guitar...!</p></h4>
@@ -28,7 +28,7 @@ title: Guitar Technician / Repair Service, Telford, guitar tech, luthier, guitar
 <p>But don't take my word for it - read my customers' comments, right here, or checkout my reviews on <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">FaceBook</a> (they're all 5-Stars!).
 </p>
 <br>
-<p><h3><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - <u>Paul Sikory.</u></h3>
+<p><h4><strong>"Nice job on the Martin, Neil - it plays like a dream, thanks!"</strong> - <u>Paul Sikory.</u></h4>
 </p>
 <br>
 <p><h3>Inspirational Author, Trainer and Coach <a href="http://www.hypnosismastertrainer.com/mastertrainers/jasonjackman.html"> Jason Jackman </a> talks about rescuing his charanga after the local music shop messed it up.</h3></p>
@@ -46,25 +46,25 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 <p>Isn't it time you found out the difference that makes <i>all</i> the difference?
 </p>
 <br>
-<p><h3><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.</u></h3></p>
+<p><h4><strong>"Hi Neil - feels great to play my Telecaster, now - it's like playing <i>your</i> Telecaster."</strong> - <u>Paul Leishman.</u></h4></p>
 <br>
 <p>
-<h3><font color="green">It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </font></h3>
+<h3>It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup. </h3>
 </p>
 <br>
-<p><h2><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h2>
+<p><h3><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h3>
 </p>
 <br>
 <p>
 <h3><font color="green">A professional setup is a small investment that can make <em>your</em> guitar play more easily and sound better, too.</font></h3>
 </p>
 <br>
-<p><h2><strong>"Another transformation - Brilliant!"</strong> - <u>Richard Crossman.</u></h2></p>
+<p><h4><strong>"Another transformation - Brilliant!"</strong> - <u>Richard Crossman.</u></h4></p>
 <br>
 <p>
 Even your old Guitar can be brought back to life and give you years more service for way less than you'd lose by trading it in for another guitar. </p>
 <br>
-<p><h2><strong>"P.S. The guitar's Brilliant."</strong> - <u>Brian Gardner.</u></h2>
+<p><h4><strong>"P.S. The guitar's Brilliant."</strong> - <u>Brian Gardner.</u></h4>
 </p>
 <br>
 <p>
