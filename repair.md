@@ -52,7 +52,7 @@ Proper setting-up is the most cost-effective way to make your guitar play, sound
 It's a sad fact that factory guitar setups are usually a mass-production compromise, so almost any guitar can be hugely improved in its playability and feel by being properly setup.
 </p>
 <br>
-<p><h3><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h3>
+<p><h4><strong>"Every time I bring you one of my guitars, you turn it into something special"</strong> - <u>Derek Ridgeway.</u></h4>
 </p>
 <br>
 <p>
@@ -79,6 +79,6 @@ Fretwork, body damage, electrics - in fact, almost anything is do-able.</p>
 <h5><font color="green">Over 15 years of repair and setup experience, plus my personal guarantee, mean that your guitar is in great hands.</font></h5>
 </p>
 <br>
-<p><h2><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great as well. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h2>
+<p><h4><strong>"I bought a new guitar that needed setting . A friend of mine recommended Neil so I went to see him... I dropped my guitar off - a text later that evening informed me it was done. I am delighted with the result: much lower action, easier to play. Oh yeah - it sounds great as well. Thanks Neil"</strong> - <u>Richard Whitehead.</u></h4>
 </p>
 <p><font color="blue"><h3>
