@@ -101,24 +101,25 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </ul>
    </p>
    </h4>
-   <h2>Then...</h2> <h4>...the Conversation We're going to Have will be the Beginning of Your Path to Mastering Everything on Your Wish-List. 
+   <h3>Then...</h3> <h4>...the Conversation We're going to Have will be the Beginning of Your Path to Mastering Everything on Your Wish-List. 
      </h4> </p>
-   <p><h4>
-        Because, whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</h4></p>
+   <p>
+        Because, whether you want to learn guitar or bass just for the fun of it, or you want to become one of those rare players who sound fantastic <strong>AND</strong> make it look effortless (whilst everyone else is trying hard and getting nowhere), I'll get you there.</p>
         <p>       </p>
         <p>     </p>
         <p><h4>Find out the difference - today - that makes all the difference, and then use it for the rest of your life to play with the kind of ease, grace and speed that most people can only ever dream of.</h4></p>
             <p>     </p>
                 <p>     </p>
                 <br>
-        <p><h2><font color="green">If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Extraordinary Results, get an Extraordinary teacher.</font></h2></p>
+        <p><h4><font color="green">If You only get Ordinary tuition, you'll only get Ordinary results. But if You Want Extraordinary Results, get an Extraordinary teacher.</font></h4></p>
         <br>
         
-        <h2><p><font color="green">I don't do conventional, and I don't do Ordinary: Do You?</font></p></h2>
+        <h4><p><font color="green">I don't do conventional, and I don't do Ordinary: Do You?</font></p></h4>
 </h4></p>
 <br>
 <p><h4>Are You ready to change the way You think about music - forever?</h4></p>
 <p>   </p>
+<br>
 <br>
 <p><h3>Ed Denholm of Kiss the Thief compares Neil to his previous guitar teachers:</h3></p>
 
@@ -138,7 +139,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
     - Ed Denholm.</h4> 
    </p>
    <br>
-
+<br>
 <h4>
 <p>You see, I'm a bit odd - unusual, Unconventional.</p>
 <p>You could call me a Non-Conformist...   </p>
@@ -146,6 +147,7 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 
 <p>In fact, the truth is that I'm obsessed with solving the problem of making learning to play guitar easier, more logical and understandable, and above all else - fun! </p>
 <p>   </p>
+<br>
 <p>It's what I love to do, so I do it as much as I can, and I only do it with people I like. </p>
 <p>And you know what? </p>
 <p>   </p>
@@ -160,7 +162,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>   </p>
 <p>       </p>
 <p> 
-
+<br>
+<br>
 </p>
 </h4>
 <p><h3>Tom Boddison talks about working with me:</h3></p>
@@ -175,7 +178,8 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
    </p>
    <p><h4>It was a pleasure to move Tom up to a far higher level than when we began working together, releasing him from being stuck, maximising his abilities and helping him find more pleasure in his playing by changing his relationship with the instrument. I'm proud of you, Tom!</h4></p>
    <p> </p>
-   
+   <br>
+   <br>
 <p>
 <h4 style="text-align: center">
 
@@ -185,7 +189,9 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 </p>
 <p> </p>
 <p> </p>
-<p> </p>
+<p> </p><br>
+<br>
+
 <p><h3>Peter James talks about working with me:</h3></p>
 <p>   </p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ee4SkTG_A4s?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -201,12 +207,13 @@ title: Neil Cowmeadow, Guitar Tuition, Guitar Teachers, Telford Guitar Teachers,
 <p>      </p>
 <p> </p>
 <br>
+<br>
 <p><h3><strong><em><font color="green"> "...a long time ago, a young boy sneaked a peek into an old guitar case, and he fell in love for the first time..."</font></em></strong></h3>
 </p>
 <br>
-<h4>
+
 <p>
-That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p></h4>
+That's how it began for me, nearly forty years ago. I did what everyone said you had to do - I tried really hard, played for hours every day, learnt a new song every week or two - probably the same things that you have been told you have to do. I remember how hard it was, how sore my fingers got, and how frustrated I was. <p>
 <p>   </p>
 <p>Just like most students and players do,  I thought that was just the way it was, and if it was tough, then I was the problem - that there was something in me that was lacking.</p> 
 <p>   </p>
@@ -223,29 +230,36 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 <p>    </p>
 <p>That lie is like an ancient curse laid upon us by a malevolent sorceror, and I've been setting players free from that curse ever since I had that moment of clarity and insight that set me free from the curse. </p>
 <p>   </p>
+<br>
 <p>   </p>
 <p>Guitar lessons should be fun, interesting, and take you forward towards your goals.</p>
 <p>   </p>
-
+<br>
 <p>   </p>
 <p>   I've been teaching guitar In Broseley, near Telford, Shropshire for more than <strong>16 years</strong>. That's getting on for <strong>40,000 hours</strong> (Yes, you read it right - Forty Thousand hours) of guitar lessons and teaching experience as part of the Shropshire Music Service, as a freelance peripatetic tutor and as a private tutor.
 </p>
+<br>
+<br>
+
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
     Direct Dial
   </a>
 <p> </p>
-
+<br>
 <p>   </p>
 <p>   
    Out of my own frustration I developed a teaching system that uses and improves on the traditional methods which I had been using for 23 years, and it accelerated progress for students at every level. </p>
    <p>I had no choice but to create it, because I couldn't find what I needed anywhere - not in any of the hundreds of books, videos, magazines, or on the internet. What I developed has changed the lives of guitarists for over sixteen years, now, and it can change your life too.</p>
+   <br>
 <p> </p>
 <p> </p>
 <p><h4><em><strong><font color="blue">"... guitar tuition with you has been fantastic... You’ve really enabled me to succeed in playing songs I never, ever thought I’d be capable of playing." </font></strong></em>  John Cooper.</h4>
 </p>
 <p>   </p>
 <p>   </p>
+<br>
+
 <p>
      I know that you'll want to deal with reality, and with principles that will remain true for all of your guitar-playing life - so that's what I will show you, all the way. From wherever you are - right now - to wherever you want to get to. 
 </p>
@@ -255,20 +269,24 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
    And if you want to shake off the delusion of difficulty (who is daft enough to want to hold onto <em>that</em> weird belief), you're in the right place. 
  </p>
  <p>   </p>
+ <br>
  <p>   </p>
 <p> 
   When we work together, you'll discover what the guitar really is - with straight talk. 
   </p>
   <p>   </p>
+  <br>
   <p>   </p>
 <p><h3>I don't peddle  nonsense, or settle into dogmatically teaching conventional wisdom.</h3></p>
 <p>I decline to be Cool or use self-promoting hype, or spout the conventional delusions of "Cool", "mojo" or "genius" to the people I help. What I do is give you a unique system that lays bare the way music works on the guitar.
 </p>
 <p>  </p>
 <p>   </p>
+<br>
 <p>
   Teaching guitar, music and creativity is both my full-time job and my life's love - and I do it all day, every day, with great people. Now <strong>that's</strong> what I call cool.
 </p>When you have multiple skills and a curious mind, you get to do interesting things with interesting people. In fact - there are no limits other than the ones you choose to accept for yourself. 
+<br>
 
 <br><p><h3>Here's childrens' Author and Businesswoman, <a href="https://trayasquest.com/">Paulette Agnew</a> talking about working with me to develop her creativity and turbocharge her writing:</h3></p>
 <br>
@@ -277,17 +295,20 @@ That's how it began for me, nearly forty years ago. I did what everyone said you
 
 <p>   </p>
 <br>
+<br>
 
 <p>  </p>
 <p>   </p>
  
-  <p>I have both a First Class BA Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. 
+  <p>I have both a First Class Honours degree in Music & Creative Writing and a Diploma in Music, so you can be certain that you're getting the real deal from a qualified professional. 
 </p>
 <p>As well as being an Accredited RGT (Registry of Guitar Teachers) Tutor, I'm also a certified Life Coach and Certified Neuro-Linguistic Programming (NLP) Practitioner, so you can be sure of a flexible and sympathetic approach, using advanced techniques to accelerate your progress. </p>
-<p><h4>
-Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with all children and adults, so you have complete peace of mind.</h4>
+<p><h5>
+Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with all children and adults, so you have complete peace of mind.</h5>
 </p>
 <p> </p>
+<br>
+<br>
 <p>   </p>
 <p><h3>Steve Holford talks about working with me:</h3></p>
 <p> </p>
@@ -301,29 +322,45 @@ Naturally, I am fully DBS and CRB safety-checked and I am cleared to work with a
     - Steve Holford</h4> 
 
 <p>Steve began working with me as a bassist, but he had a secret itch to play six-string... </p>
+<br>
+<br>
+
 <p> </p>
 <p><h3>Gift Vouchers Are Available Now - Give Music.</h3></p>
+<br>
 <p>   </p>
 <p><h4>Are You ready to get the Help You need?</h4></p>
 <p>   </p>
+<br>
 <p><h4>Click the button to dial direct, or use the numbers below the button to call direct. Your only regret will be that it took so long to find me.</h4></p>
+<br>
 <div class="jumbotron">
   <a class="btn btn-large btn-success" href="tel:07968077280" onclick="ga('send', 'event', 'button', 'click', 'Dial Now'); return true;">
   Call Now
   </a>
+<br>
+<br>
 
 <p><h3>Call me now, on 07968 077 280 or (01952) 882 928 and let's talk music!</h3>
 </p><h4>
+<br>
 Find me on <a href= "https://www.facebook.com/NeilCowmeadowGuitar?ref=hl"> FaceBook </a> and <a href="https://www.facebook.com/NeilCowmeadowGuitar?ref=hl">READ REVIEWS</a> from students.</p>
+<br>
 <p>Follow me on <a href="https://twitter.com/CowmeadowNeil">Twitter.</a></p>
+<br>
 <p>Five-Star Reviews on  <a href="https://www.firsttutors.com/uk/music/teacher/neil.guitar.bass-guitar.music-theory.composition">FirstTutors.com.</a></p>
+<br>
 <p><h4>Fully-Accredited Registry of Guitar Tutors <a href="http://www.rgt.org/index.php">RGT </a></h4></p>
+<br>
 <p> <h2 style="text-decoration:underline;">
     </strong></h2>
-    <p><h3>The Go-To Guitar Guy</h3></p>
-    <p><h3>Creator of The Guitar System that Never Fails.</h3></p>
-    <h3><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
-    <p>and Learn to Play Using My Simple and Proven System.</p></h3>
+    <br>
+    <p><h5>The Go-To Guitar Guy</h5></p>
+    <br>
+    <p><h5>Creator of The Guitar System that Never Fails.</h5></p>
+    <br><h5><p>Find Out How to Avoid the Errors that Wreck Your Playing</p>
+    <p>and Learn to Play Using My Simple and Proven System.</p></h5>
+    <br>
   </div>
   <p><h2>No-Nonsense, no BS - just the real deal.</h2></p>
   <p><h3> </h3></p>
